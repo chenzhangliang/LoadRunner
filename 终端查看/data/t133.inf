@@ -1,0 +1,13 @@
+[t133]
+FileName1=t133.htm
+URL1=http://180.153.154.42/Module/BasicData/Store/Handler/StoreHandler.ashx?mid=ac2b8342-fbf7-42b9-a48b-8f2d7e19f98c
+Total=1
+RequestHeaderFile=t133_RequestHeader.txt
+RequestBodyFile=t133_RequestBody.txt
+ResponseHeaderFile=t133_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_133.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

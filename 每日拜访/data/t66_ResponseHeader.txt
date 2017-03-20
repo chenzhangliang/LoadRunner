@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Expires: Mon, 08 Jul 2013 10:44:32 GMT
+Last-Modified: Wed, 26 Jun 2013 03:15:44 GMT
+ETag: "153d03e-6b8-4e0060fa8f800"
+Cache-Control: max-age=900, s-maxage=300
+Server: Apache
+Accept-Ranges: bytes
+Content-Length: 1720
+Content-Type: image/gif
+Date: Mon, 08 Jul 2013 10:33:28 GMT
+Connection: keep-alive
+

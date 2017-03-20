@@ -1,0 +1,10 @@
+GET /Framework/javascript/Biz/Button.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://180.153.154.42/default.aspx
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Host: 180.153.154.42
+Connection: Keep-Alive
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=5hvkbxxe142prt1vlfx4w3y5
+

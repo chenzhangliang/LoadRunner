@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+<configuration>
+	<jpegquality>100</jpegquality>
+	<maplogovisible>false</maplogovisible>
+	<mapscalebarvisible>false</mapscalebarvisible>
+	<zoomslidervisible>false</zoomslidervisible>
+	<mapbackgroundcolor>0xffffff</mapbackgroundcolor>
+	<imageurl>assets/images/jit/kpi/navigation/i_exportmap.png</imageurl>
+	<tooltip>导出</tooltip>
+	<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	!!!!!!!!!!!! USING FLASH PLAYER YOU CAN NOT SPECIFY THE OUTPUT LOCATION!!!!!!!!!!!!!!
+	!!!!!!!!!!!! JUST THE FILE NAME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!--> 
+	<defaultexportfilename>myMap.jpg</defaultexportfilename>
+</configuration>

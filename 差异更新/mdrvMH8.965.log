@@ -1,0 +1,530 @@
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:19:43	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgYf4.689"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中	[MsgId: MMSG-17988]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(20): Notify: Transaction "文件上传" started.	[MsgId: MMSG-16999]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "58527854-a066-4ab5-872d-06a3b383eabf.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "2a1b9c58-4138-4748-963b-d34375414512.jitdf"	[MsgId: MMSG-13992]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "58527854-a066-4ab5-872d-06a3b383eabf.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf"	[MsgId: MMSG-13992]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "c7ec043b-1733-4d40-a0bc-930496795e40.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "c7ec043b-1733-4d40-a0bc-930496795e40.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "1b024dcb-d384-42bf-a16e-74a02d672347.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "1b024dcb-d384-42bf-a16e-74a02d672347.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "22b2d749-d808-4854-bdac-963701628eb9.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "22b2d749-d808-4854-bdac-963701628eb9.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "2a1b9c58-4138-4748-963b-d34375414512.jitdf"	[MsgId: MMSG-13992]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf"	[MsgId: MMSG-13992]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf"	[MsgId: MMSG-13992]
+Action.c(22): Debug message:Ftp Logon successful.	[MsgId: MMSG0]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Notify: Parameter Substitution: parameter "FileName" =  "6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf"	[MsgId: MMSG-13992]
+Action.c(27): Debug message:Putting file D:\FTP\Package\58527854-a066-4ab5-872d-06a3b383eabf.jitdf in /DataSyncTesting/58527854-a066-4ab5-872d-06a3b383eabf.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\c7ec043b-1733-4d40-a0bc-930496795e40.jitdf in /DataSyncTesting/c7ec043b-1733-4d40-a0bc-930496795e40.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf in /DataSyncTesting/bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf in /DataSyncTesting/a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\1b024dcb-d384-42bf-a16e-74a02d672347.jitdf in /DataSyncTesting/1b024dcb-d384-42bf-a16e-74a02d672347.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\2a1b9c58-4138-4748-963b-d34375414512.jitdf in /DataSyncTesting/2a1b9c58-4138-4748-963b-d34375414512.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\22b2d749-d808-4854-bdac-963701628eb9.jitdf in /DataSyncTesting/22b2d749-d808-4854-bdac-963701628eb9.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf in /DataSyncTesting/88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf in /DataSyncTesting/6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Putting file D:\FTP\Package\9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf in /DataSyncTesting/9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf, passive mode set to 1	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\1b024dcb-d384-42bf-a16e-74a02d672347.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\c7ec043b-1733-4d40-a0bc-930496795e40.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\58527854-a066-4ab5-872d-06a3b383eabf.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\22b2d749-d808-4854-bdac-963701628eb9.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\2a1b9c58-4138-4748-963b-d34375414512.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf finished successfully	[MsgId: MMSG0]
+Action.c(27): Debug message:Ftp Put ended successfully.	[MsgId: MMSG0]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2142).	[MsgId: MMSG-16873]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2111).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2132).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2099).	[MsgId: MMSG-16873]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2144).	[MsgId: MMSG-16873]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2090).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2124).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2125).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(36): Debug message:Ftp Session closed successfully.	[MsgId: MMSG0]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2145).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(40): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 0.2175).	[MsgId: MMSG-16873]
+Action.c(45): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(45): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(47): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "88bdfbd2-3d27-440c-90cd-22e44e6c8a8a.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "a2b918f8-e49a-4dd1-a40e-af88f3f0b610.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "22b2d749-d808-4854-bdac-963701628eb9.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "1b024dcb-d384-42bf-a16e-74a02d672347.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "9d64fe97-38c9-449c-829a-fc9b4d81f83f.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "6a1dd3cd-fca5-498f-a170-6e0884215ffc.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "c7ec043b-1733-4d40-a0bc-930496795e40.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "58527854-a066-4ab5-872d-06a3b383eabf.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "bfd91ad8-bb90-4cf1-972e-646d104ff1ff.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(49): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(51): Notify: Parameter Substitution: parameter "FileName" =  "2a1b9c58-4138-4748-963b-d34375414512.jitdf"	[MsgId: MMSG-13992]
+Action.c(51): Notify: Parameter Substitution: parameter "User" =  "9598"	[MsgId: MMSG-13992]
+Action.c(51): t=5937ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:41 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=5938ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\85964c10-bd28-4312-a3d3-59461899f62
+Action.c(51):     a.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 602","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 5.1959 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 1 (thread 4548), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=8593ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=8594ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\8be7a7be-d40d-40f2-bacf-8f1c702a01d
+Action.c(51):     9.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 602","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 7.8508 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 0 (thread 2264), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=8703ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=8703ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\40486936-0dfc-44d4-812a-c6092078d56
+Action.c(51):     1.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 602","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 7.9605 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 8 (thread 5608), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=9031ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=9032ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\ed3ee004-0812-4a12-b60f-ce3c8a4613d
+Action.c(51):     2.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 586","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 8.2880 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 3 (thread 500), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=9062ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51): t=9062ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     \r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=9062ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\62cd863c-6115-4d04-bd64-9dcfb5d11aa
+Action.c(51): t=9062ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     4.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 586","Message":null,"Resu
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\a7110d8a-a44f-4c69-a660-e28a24a3956
+Action.c(51):     ltCode":0}
+Action.c(51):     a.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 586","Message":null,"Resu
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 8.3208 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 8.3200 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 9 (thread 1060), ended OK."	[MsgId: MMSG-10695]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 2 (thread 5632), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=9546ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:44 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=9547ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\9242bf1a-ce91-44ba-8c2e-c6b3ef9d675
+Action.c(51):     9.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:37 180","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 8.8029 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 5 (thread 4236), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=9687ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:45 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=9687ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\769a34c2-5f5b-40d0-b929-5af018392af
+Action.c(51):     6.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 618","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 8.9466 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 6 (thread 2120), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=12781ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:48 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=12781ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\64fe3127-e6f4-4fb1-9a65-091f2aff6ec
+Action.c(51):     3.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 602","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 12.0383 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 4 (thread 4992), ended OK."	[MsgId: MMSG-10695]
+Action.c(51): t=13030ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     HTTP/1.1 200 OK\r\n
+Action.c(51):     Content-Length: 182\r\n
+Action.c(51):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(51):     Server: Microsoft-IIS/7.5\r\n
+Action.c(51):     X-Powered-By: ASP.NET\r\n
+Action.c(51):     Date: Thu, 01 Aug 2013 15:19:48 GMT\r\n
+Action.c(51):     \r\n
+Action.c(51): t=13031ms: 182-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(51):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130801\\\\71a140e9-f606-4bcf-9d8e-91c975f3481
+Action.c(51):     2.jitdf","FailFileName":[],"LastUpdateTime":"2013-08-01 23:19:36 680","Message":null,"Resu
+Action.c(51):     ltCode":0}
+Action.c(51): Notify: Saving Parameter "WcfResponse = 0".	[MsgId: MMSG-13798]
+Action.c(51): web_custom_request("ListThemes") was successful, 182 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(72): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(72): 参数值为0	[MsgId: MMSG-17999]
+Action.c(80): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 12.2890 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(89): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Action.c(90): 成功	[MsgId: MMSG-17999]
+Action.c(91): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"	[MsgId: MMSG-13992]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 7 (thread 5744), ended OK."	[MsgId: MMSG-10695]

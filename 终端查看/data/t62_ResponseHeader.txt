@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+Last-Modified: Fri, 14 Jun 2013 08:22:50 GMT
+Accept-Ranges: bytes
+ETag: "a0f515cd868ce1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Mon, 08 Jul 2013 10:41:45 GMT
+Content-Length: 4661
+

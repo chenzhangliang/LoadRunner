@@ -1,0 +1,12 @@
+[t_common]
+FileName1=t_common.htm
+URL1=http://localhost/common.htm
+Total=2
+RequestHeaderFile=t_common_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t_common_ResponseHeader.txt
+ContentType=text/html
+FileName2=t_common.jpg
+URL2=http://localhost/common.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

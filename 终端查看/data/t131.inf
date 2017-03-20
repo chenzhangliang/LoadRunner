@@ -1,0 +1,13 @@
+[t131]
+FileName1=t131_CheckColumn.html
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/ux/CheckColumn.js?_dc=1373280162753
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_131.xml
+RequestHeaderFile=t131_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t131_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

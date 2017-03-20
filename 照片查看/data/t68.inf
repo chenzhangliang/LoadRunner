@@ -1,0 +1,13 @@
+[t68]
+FileName1=t68_WidgetContainerWidget.swf
+URL1=http://map.jitmarketing.cn:8083/map/widgets/WidgetContainer/WidgetContainerWidget.swf
+Total=1
+ContentType=application/x-shockwave-flash
+SnapshotXmlFile=snapshot_68.xml
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t68_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

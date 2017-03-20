@@ -1,0 +1,13 @@
+[t95]
+FileName1=t95_ServiceHandler.txt
+URL1=http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentitylist&_dc=1373280140121&limit=15&page=1&start=0
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_95.xml
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t95_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

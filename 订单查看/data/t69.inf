@@ -1,0 +1,13 @@
+[t69]
+FileName1=t69_w_close.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/w_close.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_69.xml
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

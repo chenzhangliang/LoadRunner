@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+    <!-- 
+    Smart developers always View Source. 
+    
+    This application was built using Adobe Flex, an open source framework
+    for building rich Internet applications that get delivered via the
+    Flash Player or to desktops via Adobe AIR. 
+    
+    Learn more about Flex at http://flex.org 
+    // -->
+    <head>
+        <title></title>
+        <meta name="google" value="notranslate" />         
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
+             the body element to 100%, because Firefox, or any Gecko based browser, interprets percentage as 
+             the percentage of the height of its parent container, which has to be set explicitly.  Fix for
+             Firefox 3.6 focus border issues.  Initially, don't display flashContent div so it won't show 
+             if JavaScript disabled.
+        -->
+        <style type="text/css" media="screen"> 
+            html, body  { height:100%; }
+            body { margin:0; padding:0; overflow:auto; text-align:center; 
+                   background-color: #ffffff; }   
+            object:focus { outline:none; }
+            #flashContent { display:none; }
+        </style>
+        
+        <!-- Enable Browser History by replacing useBrowserHistory tokens with two hyphens -->
+        <!-- BEGIN Browser History required section >
+        <link rel="stylesheet" type="text/css" href="history/history.css" />
+        <script type="text/javascript" src="history/history.js"></script>
+        <! END Browser History required section -->  
+            
+        <script type="text/javascript" src="swfobject.js"></script>
+        
+        <!--dada 地图项目-->
+         <!--script type="text/javascript">
+		  function _map_AddStores()
+		  {  
+		   var px='[{"StoreID":"1","LabelContent":"测试","Lng":"121.4309","Lat":"31.2303","Icon":"o","IsAssigned":"false","IsEdit":"true","Tips":"这是一个测试终端1","PopInfoWidth":"200","PopInfoHeight":"","PopInfo":[{"type":"1","title":"客户名称","value":"坂田医院"},{"type":"2","title":"图片","value":"http://www.mobanwang.com/icon/UploadFiles_8971/200806/20080602162129496.png"},{"type":"3","title":"按钮1","value":"test1"}]},{"StoreID":"2","LabelID":"22","Lng":"121.4309","Lat":"31.231","Icon":"os","IsAssigned":"true","IsEdit":"false","Tips":"这是一个测试终端2","PopInfoWidth":"200","PopInfo":[{"type":"1","tilte":"客户名称","value":"坂田医院"}]},{"StoreID":"3","LabelID":"3","Lng":"121.4330","Lat":"31.3","Icon":"g","IsAssigned":"true","IsEdit":"false","Tips":"这是一个测试终端2","PopInfo":[{"type":"1","tilte":"客户名称","value":"坂田医院"}]},{"StoreID":"4","LabelID":"4","Lng":"121","Lat":"31","Icon":"bs","IsAssigned":"true","IsEdit":"false","Tips":"frametest","PopInfoWidth":"500","PopInfoHeight":"400","PopInfo":[{"type":"4","tilte":"frame","value":"http://www.baidu.com"}]}]';
+		      
+		   index._map_AddStores(px,false);
+		   index._map_MoveToStores();
+		  }
+		   function _map_UpdateStores()
+		  {  
+		   var px='[{"StoreID":"1","LabelID":"1","Lng":"120","Lat":"31","IconUrl":"2/1.gif","IsAssigned":"false","Tips":"这是一个测试终端1","PopInfoWidth":"200","PopInfoHeight":"","PopInfo":[{"type":"1","title":"客户名称","value":"坂田医院2"}]}]';
+				index._map_UpdateStores(px);
+		  }
+        
+		   function _map_RemoveStores1()
+		   {
+		     	var p='[{"StoreID":"2"},{"StoreID":"1"},{"StoreID":"3"}]';
+		      index._map_RemoveStores(p); 
+		   }
+		   function _map_RemoveStores2()
+		   {	
+		       index._map_RemoveStores(''); 
+			}
+			 function _map_MoveToStore()
+		   {	
+		       index._map_MoveToStore('2'); 
+			}
+           function _map_CreateLine1()
+           {
+              var p='[{"StoreID":"4"},{"StoreID":"2"},{"StoreID":"3"}]';
+             index._map_CreateLine("lineid1",p,"driving","none","1");
+   
+
+           } 
+             function _map_CreateLine11()
+           {
+              var p='[{"StoreID":"1"},{"StoreID":"2"},{"StoreID":"3"}]';
+             index._map_CreateLine("lineid2",p,"walking","none","3");
+ 
+           } 
+           function _map_CreateLine2()
+           {
+              var p='[{"StoreID":"1"},{"StoreID":"2"},{"StoreID":"3"}]';
+             index._map_CreateLine("lineid3",p,"line","center","3");
+
+
+           } 
+		   function _map_ClearLines1()
+           {
+             var p='[{"LineID":"lineid1"}]';
+            index._map_ClearLines(p);
+
+           } 
+		    function _map_ClearLines2()
+           {
+          
+            index._map_ClearLines('');
+
+           } 
+		   
+           function  _map_Graphic_OnClick(a)
+           { 
+  			
+           } 
+           
+           function _map_InitMap()
+           {}
+           
+           function _map_Extent_Select(a)
+           {
+          
+           }
+           
+            function _map_ExportMap(b)
+           {
+            
+ 
+           }
+           
+          function  _map_CreateLine_Len(b)
+           {
+           
+ 
+           }
+           function _map_Graphic_MoveEdit(b)
+           {}
+           
+           function _map_Extent_Change(b)
+           {}
+           
+           function _map_Clear()
+           {index._map_Extent_Clear();
+           }
+           function _map_Graphic_OnRightClick(op,type)
+           {
+           alert(op);
+            alert(type);
+           }
+         </script-->
+         
+         <!--dada 地图产品-->
+         <script type="text/javascript">
+         function _map_product_DelKpiLayer()
+         {
+             index._map_product_DelKpiLayer();
+         }
+         function _map_product_BaseMapSwitch() {
+             index._map_product_BaseMapSwitch(true);
+         }
+ 
+         </script>
+    </head>
+    <body >
+     <!--产品js-->
+      <div style="display:none;">
+       <input type='button' value='删除地图' onclick='_map_product_DelKpiLayer()'/> 
+     <input type='button' value='底图开' onclick='_map_product_BaseMapSwitch()'/> 
+       <input type='button' value='渲染' onclick='index._map_product_RenderKpi()'/> 
+           <input type='button' value='数字开关' onclick='_map_product_ShowKpi(1)'/> 
+           <input type='button' value='数字开关' onclick='_map_product_ShowKpi(4)'/> 
+     </div> 
+      <!--项目js-->
+      <!--div>
+      <input type='button' value='加点' onclick='_map_AddStores()'/>
+     <input type='button' value='更新' onclick='_map_UpdateStores()'/>
+      <input type='button' value='清点1' onclick='_map_RemoveStores1()'/>
+	  <input type='button' value='清点2' onclick='_map_RemoveStores2()'/>
+      <input type='button' value='移动到点' onclick='_map_MoveToStore()'/>
+	 <input type='button' value='建立真实行车线' onclick='_map_CreateLine1()'/>
+	  <input type='button' value='建立真实走路线' onclick='_map_CreateLine11()'/>
+	 <input type='button' value='建立直线' onclick='_map_CreateLine2()'/>
+	 <input type='button' value='清线1' onclick='_map_ClearLines1()'/>
+	 <input type='button' value='清线2' onclick='_map_ClearLines2()'/>
+	  <input type='button' value='清多边形' onclick='_map_Clear()'/>
+     </div--> 
+        <div id="flashContent">
+            <p>
+                To view this page ensure that Adobe Flash Player version 
+                11.1.0 or greater is installed. 
+            </p>
+            <script type="text/javascript"> 
+                var pageHost = ((document.location.protocol == "https:") ? "https://" : "http://"); 
+                document.write("<a href='http://www.adobe.com/go/getflashplayer'><img src='" 
+                                + pageHost + "www.adobe.com/images/shared/download_buttons/get_flash_player.gif' alt='Get Adobe Flash player' /></a>" ); 
+            </script> 
+        </div>
+
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="index">
+                <param name="movie" value="index.swf" />
+                <param name="quality" value="high" />
+                <param name="bgcolor" value="#ffffff" />
+                <param name="wmode" value="transparent" />
+                <param name="allowScriptAccess" value="sameDomain" />
+                <param name="allowFullScreen" value="true" />
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="index.swf" width="100%" height="100%">
+                    <param name="quality" value="high" />
+                    <param name="bgcolor" value="#ffffff" />
+                    <param name="allowScriptAccess" value="sameDomain" />
+                    <param name="allowFullScreen" value="true" />
+                <!--<![endif]-->
+                <!--[if gte IE 6]>-->
+                    <p> 
+                        Either scripts and active content are not permitted to run or Adobe Flash Player version
+                        11.1.0 or greater is not installed.
+                    </p>
+                <!--<![endif]-->
+                    <a href="http://www.adobe.com/go/getflashplayer">
+                        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash Player" />
+                    </a>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+            </object>
+        <script language="javascript" type="text/javascript" src="/js/jquery-1.4.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/MapInclude.js"></script>
+   </body>
+</html>

@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60_icon2.jpg
+URL1=http://map.jitmarketing.cn:8083/images/icon2.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

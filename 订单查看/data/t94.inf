@@ -1,0 +1,13 @@
+[t94]
+FileName1=t94_NavigationWidget.xml
+URL1=http://map.jitmarketing.cn:8083/map/widgets/jit/product/NavigationJS/NavigationWidget.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_94.xml
+RequestHeaderFile=t94_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t94_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

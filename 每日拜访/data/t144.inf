@@ -1,0 +1,11 @@
+[t144]
+FileName1=t144_page-next.gif
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-next.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_144.xml
+RequestHeaderFile=t144_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t144_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t119]
+FileName1=t119.htm
+URL1=http://180.153.154.42/Module/VisitingData/photo/TaskDataphoto.aspx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&VisitingTaskID=d9385bdc-532d-4a94-a398-dff9b5f7ee4f&VisitingTaskStepID=null&VisitingTaskName=%u5DE5%u4F5C%u4EFB%u52A1&StepName=%u8FDB%u51FA%u5E97
+Total=1
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_119.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

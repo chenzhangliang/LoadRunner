@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Documents and Settings\Administrator\桌面\阿里云脚本\订单查看
+-IC:\Program Files\HP\LoadRunner\include
+-ec:\documents and settings\administrator\桌面\阿里云脚本\订单查看\\logfile.log
+c:\documents and settings\administrator\桌面\阿里云脚本\订单查看\\combined_订单查看.c
+c:\documents and settings\administrator\桌面\阿里云脚本\订单查看\\pre_cci.c

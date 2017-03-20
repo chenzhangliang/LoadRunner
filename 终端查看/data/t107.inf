@@ -1,0 +1,13 @@
+[t107]
+FileName1=t107_i_pan.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_pan.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_107.xml
+RequestHeaderFile=t107_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t107_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

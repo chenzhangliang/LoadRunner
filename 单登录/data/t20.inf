@@ -1,0 +1,13 @@
+[t20]
+FileName1=t20_jquery-1.9.0.min.html
+URL1=http://180.153.154.42/framework/javascript/Other/jquery-1.9.0.min.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

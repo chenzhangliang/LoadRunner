@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Last-Modified: Thu, 16 May 2013 09:19:02 GMT
+Accept-Ranges: bytes
+ETag: "d09ad4671652ce1:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Wed, 10 Jul 2013 05:23:46 GMT
+Content-Length: 1775
+

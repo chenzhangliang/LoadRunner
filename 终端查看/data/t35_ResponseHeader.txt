@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Last-Modified: Wed, 20 Feb 2013 02:35:34 GMT
+Accept-Ranges: bytes
+ETag: "e88b60f512fce1:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 08 Jul 2013 10:42:08 GMT
+

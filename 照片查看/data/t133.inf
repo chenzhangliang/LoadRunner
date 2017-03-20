@@ -1,0 +1,11 @@
+[t133]
+FileName1=t133_District.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/District.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_133.xml
+RequestHeaderFile=t133_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t133_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

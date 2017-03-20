@@ -1,0 +1,10 @@
+GET /Module/VisitingData/photo/Handler/TaskDataPhotoHandler.ashx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&btncode=search&method=GetTaskList&_dc=1373360714134&page=1&start=0&limit=25 HTTP/1.1
+Referer: http://112.124.44.147/Module/VisitingData/photo/TaskDataphoto.aspx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&VisitingTaskID=d9385bdc-532d-4a94-a398-dff9b5f7ee4f&VisitingTaskStepID=null&VisitingTaskName=%u5DE5%u4F5C%u4EFB%u52A1&StepName=%u8FDB%u51FA%u5E97
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN
+Accept: */*
+Connection: Keep-Alive
+Host: 112.124.44.147
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=m4zujyu0qgvln0wuicg2wq02
+

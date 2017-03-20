@@ -1,0 +1,11 @@
+[t129]
+FileName1=t129_column-header-bg.gif
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/column-header-bg.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_129.xml
+RequestHeaderFile=t129_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t129_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,44 @@
+Virtual User Script started at : 2013-07-30 18:08:19
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\桌面\阿里云脚本\单登录\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录
+Action.c(23): Notify: Transaction "登录" started.
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(31): t=1523ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=v1j31pu4giyhfgtkey34m2y2; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=v1j31pu4giyhfgtkey34m2y2; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 10:08:12 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 10:08:12 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 10:08:12 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=1568ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 1.5328 Wasted Time: 0.4156).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

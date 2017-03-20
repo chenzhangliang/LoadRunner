@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9_jquery-1.4.2.min.html
+URL1=http://180.153.154.42/Framework/Javascript/other/jquery-1.4.2.min.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,13 @@
+[t130]
+FileName1=t130_HierarchyItem.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/HierarchyItem.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_130.xml
+RequestHeaderFile=t130_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t130_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

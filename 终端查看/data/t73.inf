@@ -1,0 +1,13 @@
+[t73]
+FileName1=t73_w_collapse_down.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/w_collapse_down.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_73.xml
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t73_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

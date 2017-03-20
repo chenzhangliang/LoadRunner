@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141_page-prev-disabled.gif
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-prev-disabled.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_141.xml
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t141_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

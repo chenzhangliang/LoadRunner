@@ -1,0 +1,79 @@
+[General]
+Type=Multi
+AdditionalTypes=FTP,QTWeb
+ActiveTypes=FTP,QTWeb
+GenerateTypes=FTP,QTWeb
+RecordedProtocols=
+DefaultCfg=default.cfg
+AppName=
+BuildTarget=
+ParamRightBrace=}
+ParamLeftBrace={
+NewFunctionHeader=1
+LastActiveAction=Action
+CorrInfoReportDir=result1
+LastResultDir=result1
+DevelopTool=Vugen
+ActionLogicExt=action_logic
+MajorVersion=11
+MinorVersion=0
+ParameterFile=²îÒì¸üÐÂ.prm
+GlobalParameterFile=
+RunType=cci
+LastModifyVer=11.0.0.0
+[TransactionsOrder]
+Order="ÎÄ¼þÉÏ´«__*delimiter*__WCFµ÷ÓÃ"
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[ProtocolsVersion]
+QTWeb=11.0.0.0
+FTP=11.0.0.0
+[RunLogicFiles]
+Default Profile=default.usp
+[StateManagement]
+1=1
+7=0
+8=0
+9=0
+10=0
+11=0
+12=0
+13=0
+17=0
+18=0
+20=0
+21=0
+CurrentState=1
+VuserStateHistory= 0 65536 65552
+LastReplayStatus=2
+LastReplayErrorID1=-86008
+LastReplayErrorMsg1=Action.c(22): Error -86008:Logon Session failed 
+LastReplayErrorID2=-86002
+LastReplayErrorMsg2=Action.c(22): Error -86002:Failed to establish connection to 112.124.9.72:8021
+[Transactions]
+ÎÄ¼þÉÏ´«=
+WCFµ÷ÓÃ=
+[Rendezvous]
+ÉÏ´«¼¯ÖÐ=
+WCF¼¯ºÏµã=
+Ä¼þÉÏ´«=
+WCFµ÷ÓÃ=
+[Rendezvous]
+ÉÏ´«¼¯ÖÐ=
+WCF¼¯ºÏµã=
+[ExtraFiles]
+globals.h=
+[Recorded Actions]
+vuser_init=0
+Action=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Modified Actions]
+vuser_init=0
+Action=1
+vuser_end=0

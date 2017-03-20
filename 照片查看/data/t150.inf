@@ -1,0 +1,11 @@
+[t150]
+FileName1=t150.htm
+URL1=http://180.153.154.42/default.aspx?method=LogOut
+Total=1
+RequestHeaderFile=t150_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t150_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_150.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

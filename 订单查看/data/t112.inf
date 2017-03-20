@@ -1,0 +1,13 @@
+[t112]
+FileName1=t112.htm
+URL1=http://180.153.154.42/default.aspx?r=0.8158822551354015
+Total=1
+RequestHeaderFile=t112_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t112_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_112.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

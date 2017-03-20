@@ -1,0 +1,13 @@
+POST /Module/VisitingData/File/Handler/TaskDataFileHandler.ashx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&btncode=search&method=GetVisitingTaskStepSum HTTP/1.1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Referer: http://180.153.154.42/Module/VisitingData/File/TaskDataFile.aspx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Host: 180.153.154.42
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=b4h12i0i5pdkmuoz2pbbzsuk
+

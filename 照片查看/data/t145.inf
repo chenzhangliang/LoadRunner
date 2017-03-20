@@ -1,0 +1,11 @@
+[t145]
+FileName1=t145_buttoncurrent.png
+URL1=http://180.153.154.42/Lib/Image/button/buttoncurrent.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_145.xml
+RequestHeaderFile=t145_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t145_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

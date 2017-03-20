@@ -1,0 +1,13 @@
+[t61]
+FileName1=t61_loadingAnimation.gif
+URL1=http://map.jitmarketing.cn:8083/images/loadingAnimation.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_61.xml
+RequestHeaderFile=t61_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t61_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

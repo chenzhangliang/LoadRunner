@@ -1,0 +1,2250 @@
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:09	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:10	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-07-30 19:14:11	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.952\lrcfgSI3.953\cfgSxg.956"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(11): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(21): Rendezvous 登录	[MsgId: MMSG-17988]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "登录" started.	[MsgId: MMSG-16999]
+Action.c(26): Warning: The string 'success:true,msg:"/default.aspx?type=dpage"' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(31): t=18405ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=hlpzdegmtdrvehhnp5urfsgj; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=hlpzdegmtdrvehhnp5urfsgj; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:19 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=18406ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 2.7176 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 31 (thread 3072), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=18426ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5kstawoerf0hb1ikqrtxx2sm; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5kstawoerf0hb1ikqrtxx2sm; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:19 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=18426ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 2.7364 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 48 (thread 6080), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=18788ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=ioahbnu0tmnkf5qj2bsz0k0x; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=ioahbnu0tmnkf5qj2bsz0k0x; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:19 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=18789ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.0707 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 6 (thread 3580), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=18857ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=uvtuuz1siodfkxfvn3zlnaz3; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=uvtuuz1siodfkxfvn3zlnaz3; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=18858ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.1678 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 2 (thread 4284), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19040ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=0xrkykan0qr0ry1kegq43ppn; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=0xrkykan0qr0ry1kegq43ppn; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19040ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.3500 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 25 (thread 3596), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19129ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=i1chjcuyrb3hwbaluafwc21c; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=i1chjcuyrb3hwbaluafwc21c; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19129ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.4832 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 30 (thread 3096), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19183ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5hnkum52v35bnbbngrd5ohkz; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5hnkum52v35bnbbngrd5ohkz; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:20 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19184ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.4941 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 10 (thread 3440), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19247ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=4aaxzqyuck5sxrg251shcbx1; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=4aaxzqyuck5sxrg251shcbx1; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19247ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.5575 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 40 (thread 1604), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19459ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=aindfsjcicx2udomaqi4ljyb; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=aindfsjcicx2udomaqi4ljyb; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19459ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.7689 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 15 (thread 3812), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19464ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=snnxqcatpar5lvt4qoqgqvv0; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=snnxqcatpar5lvt4qoqgqvv0; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19464ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.7430 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 8 (thread 2396), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19632ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=dwdnio0ghe2nbaq3pkkga41e; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=dwdnio0ghe2nbaq3pkkga41e; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19632ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 3.9430 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 33 (thread 3264), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19695ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wmnxjbjqddhhhlwen0n3cpap; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wmnxjbjqddhhhlwen0n3cpap; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19695ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.0051 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 18 (thread 1692), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19723ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=pzxnz3ntx3bxbene1pdtsu4t; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=pzxnz3ntx3bxbene1pdtsu4t; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19724ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.0351 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 13 (thread 2476), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19797ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=nlsoyvzk1c5hogv5a4ha4cna; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=nlsoyvzk1c5hogv5a4ha4cna; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:20 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19798ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.1090 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 4 (thread 4520), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=19919ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=fdi0eeza3qxzsmkt4iwzhbia; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=fdi0eeza3qxzsmkt4iwzhbia; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19920ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.2294 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(31): t=19922ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=1r1vjwfnzkhbvk5byxoqzh0h; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=1r1vjwfnzkhbvk5byxoqzh0h; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=19922ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Vuser 36 (thread 2856), ended OK."	[MsgId: MMSG-10695]
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.2040 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 3 (thread 3160), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20035ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=0y4f4sbvfxlvadbc54uedtje; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=0y4f4sbvfxlvadbc54uedtje; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20035ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.3031 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 35 (thread 2408), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20167ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=xqwuuj3xoevehxrvsxxmirmp; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=xqwuuj3xoevehxrvsxxmirmp; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20168ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.4412 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 27 (thread 4820), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20185ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=1daezxf13uri5yywzem10yrt; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=1daezxf13uri5yywzem10yrt; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:21 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20186ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.4956 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 21 (thread 3744), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20333ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=udi0a0yqi3zs343tlutw2fqx; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=udi0a0yqi3zs343tlutw2fqx; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20334ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.6123 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 26 (thread 4816), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20428ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wb4dgp51lk5k505sjch1fpuj; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wb4dgp51lk5k505sjch1fpuj; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20429ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.7032 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 43 (thread 2232), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=20563ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=55tzx2f2t4ppctafip1w1hb3; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=55tzx2f2t4ppctafip1w1hb3; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:22 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:21 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=20564ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 4.8733 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 46 (thread 2280), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=21250ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=tezszkos3rqzxzhwmtzpppa3; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=tezszkos3rqzxzhwmtzpppa3; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:22 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=21251ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 5.5605 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 34 (thread 6076), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=21268ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=askpsjy5bcdvylupewee11qp; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=askpsjy5bcdvylupewee11qp; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:22 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=21269ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 5.5506 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 24 (thread 2788), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=21757ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=oii2n0lry3wa03ajop4yqxy3; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=oii2n0lry3wa03ajop4yqxy3; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:22 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=21757ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 6.0669 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 32 (thread 700), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=22207ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=cv51rzo3ctta4ewhbsvo5f4y; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=cv51rzo3ctta4ewhbsvo5f4y; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:23 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:23 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=22207ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 6.4738 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 5 (thread 2596), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=22573ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=nhxapjszruyyopmb54jeros5; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=nhxapjszruyyopmb54jeros5; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:23 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=22574ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 6.8425 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 11 (thread 576), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=22904ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31): t=22904ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3cc4pffzhd32bspigaqwockd; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=stzmvg24sbggeyrlpown52rl; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3cc4pffzhd32bspigaqwockd; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=stzmvg24sbggeyrlpown52rl; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:23 GMT\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:23 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31):     \r\n
+Action.c(31): t=22905ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31): t=22905ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.2144 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.2146 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 14 (thread 3864), ended OK."	[MsgId: MMSG-10695]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 12 (thread 2920), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=22958ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=yqye2sy5cmhjt0wbsudgzh2o; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=yqye2sy5cmhjt0wbsudgzh2o; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=22961ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.2349 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 45 (thread 6112), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=23070ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5r34ezp05jlqsma0ip2k4r2e; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=5r34ezp05jlqsma0ip2k4r2e; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:24 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=23070ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.3804 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 17 (thread 4640), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=23561ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=jp1r3idnrutwcqjjsfhh1jng; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=jp1r3idnrutwcqjjsfhh1jng; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=23561ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.8715 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 39 (thread 1464), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=23572ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=aixrvzvxfcibs1sf0x0uoif0; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=aixrvzvxfcibs1sf0x0uoif0; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=23572ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.8463 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 47 (thread 3852), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=23594ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=ltyg0v5t555kjttr45ppypsc; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=ltyg0v5t555kjttr45ppypsc; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=23595ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.9049 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 49 (thread 3304), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=23615ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3qsnwa4hum4hgcwzju5s1zzw; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3qsnwa4hum4hgcwzju5s1zzw; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:24 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=23615ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 7.9254 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 22 (thread 3432), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=24068ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=zduyvc1fbspbnns5ol44ewpz; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=zduyvc1fbspbnns5ol44ewpz; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:25 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:25 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=24068ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 8.4324 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 7 (thread 3272), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=24458ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=vzpyqmxvpvevyoltuf0ympll; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=vzpyqmxvpvevyoltuf0ympll; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:25 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=24459ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 8.7687 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 1 (thread 2980), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=24983ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=qk212imx3liq23uiti4w5s1m; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=qk212imx3liq23uiti4w5s1m; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=24983ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 9.2929 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 44 (thread 2488), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=24993ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=xmg4dafn4hcntoryy3xtbwjw; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=xmg4dafn4hcntoryy3xtbwjw; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=24993ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 9.3032 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 19 (thread 4800), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=25170ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=dlclagkt5jwkhx1dyjpo2j3d; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=dlclagkt5jwkhx1dyjpo2j3d; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:26 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=25170ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 9.4804 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 37 (thread 6108), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=25403ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=q0nzu3gtq533joxepnhkslv0; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=q0nzu3gtq533joxepnhkslv0; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=25404ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 9.7584 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 42 (thread 4348), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=25608ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=mh13rpmlv1tv14uf0b1em2dz; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=mh13rpmlv1tv14uf0b1em2dz; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=25609ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 9.9183 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 9 (thread 4168), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=25784ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=s515vmide5eiosrcp5nxl4z4; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=s515vmide5eiosrcp5nxl4z4; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:26 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=25785ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.0945 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 28 (thread 4824), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=26208ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=rzvnfozbjrpz1mjhhnj5p0ls; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=rzvnfozbjrpz1mjhhnj5p0ls; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:27 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26208ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.5183 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 16 (thread 2124), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=26297ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=2o0ya5h22qhl2cqhydo1fu40; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=2o0ya5h22qhl2cqhydo1fu40; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26297ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.5794 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 29 (thread 4680), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=26404ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wyjblidfm45p5ecedzulhc23; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=wyjblidfm45p5ecedzulhc23; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26405ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.7711 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 20 (thread 4804), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=26494ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=33k5tey3x0erqcgnabdyvuoe; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=33k5tey3x0erqcgnabdyvuoe; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26494ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.8038 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 38 (thread 6100), ended OK."	[MsgId: MMSG-10695]
+Action.c(31): t=26659ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=2ujbcbyknfuf3dvsql43nfmd; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=2ujbcbyknfuf3dvsql43nfmd; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26660ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(31): t=26660ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.9416 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=swyv5ggraem1tujcav5qtoco; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Ending action Action.	[MsgId: MMSG-15918]
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=swyv5ggraem1tujcav5qtoco; path=/; HttpOnly\r\n
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Ending iteration 1.	[MsgId: MMSG-15965]
+Action.c(31):     ; path=/\r\n
+Ending Vuser...	[MsgId: MMSG-15966]
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26661ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.9482 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(31): t=26663ms: 567-byte response headers for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 200 OK\r\n
+Action.c(31):     Cache-Control: private\r\n
+Action.c(31):     Content-Type: text/html; charset=utf-8\r\n
+Action.c(31):     Server: Microsoft-IIS/7.5\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3zo5hjnqojd3xf5e1fqrmxmt; path=/; HttpOnly\r\n
+Action.c(31):     X-AspNet-Version: 4.0.30319\r\n
+Action.c(31):     Set-Cookie: ASP.NET_SessionId=3zo5hjnqojd3xf5e1fqrmxmt; path=/; HttpOnly\r\n
+Vuser 23 (thread 1520), ended OK."	[MsgId: MMSG-10695]
+Action.c(31):     Set-Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     Set-Cookie: CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; expires=Tue, 06-Aug-2013 11:14:28 GMT
+Action.c(31):     ; path=/\r\n
+Action.c(31):     X-Powered-By: ASP.NET\r\n
+Action.c(31):     Date: Tue, 30 Jul 2013 11:14:27 GMT\r\n
+Action.c(31):     Content-Length: 47\r\n
+Action.c(31):     \r\n
+Action.c(31): t=26664ms: 47-byte response body for "http://112.124.44.147/login.aspx?method=UserLogin&r=0.545917712508873" (RelFrameId=1, Internal ID=1)
+Action.c(31):     [{success:true,msg:"/default.aspx?type=dpage"}]
+Action.c(31): Notify: Saving Parameter "response = [{success:true,msg:"/default.aspx?type=dpage"}]".	[MsgId: MMSG-13798]
+Action.c(31): Registered web_reg_find successful for "Text=[{success:true,msg:"/default.aspx?type=dpage"}]" (count=1)  	[MsgId: MMSG-26364]
+Action.c(31): web_submit_data("login.aspx_2") was successful, 47 body bytes, 567 header bytes  	[MsgId: MMSG-26386]
+Action.c(45): Notify: Parameter Substitution: parameter "response" =  "[{success:true,msg:"/default.aspx?type=dpage"}]"	[MsgId: MMSG-13992]
+Action.c(45): 参数值为 [{success:true,msg:"/default.aspx?type=dpage"}]	[MsgId: MMSG-17999]
+Vuser 41 (thread 3616), ended OK."	[MsgId: MMSG-10695]
+Action.c(52): Notify: Transaction "登录" ended with "Pass" status (Duration: 10.9360 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 0 (thread 3768), ended OK."	[MsgId: MMSG-10695]

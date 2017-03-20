@@ -1,0 +1,11 @@
+[t124]
+FileName1=t124_TaskDataPhotoCtl.html
+URL1=http://180.153.154.42/Module/VisitingData/photo/Controller/TaskDataPhotoCtl.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_124.xml
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t124_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t127]
+FileName1=t127_TaskDataPhotoVMStore.html
+URL1=http://180.153.154.42/Module/VisitingData/photo/Store/TaskDataPhotoVMStore.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_127.xml
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t127_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

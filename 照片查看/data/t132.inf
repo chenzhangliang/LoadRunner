@@ -1,0 +1,11 @@
+[t132]
+FileName1=t132_Province.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/Province.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_132.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

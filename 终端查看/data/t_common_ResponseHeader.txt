@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/5.0
+X-Powered-By: ASP.NET
+Date: Thu, 24 Nov 2005 12:54:27 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 24 Nov 2005 10:02:44 GMT
+ETag: "886df136def0c51:ac9"
+Content-Length: 1370
+

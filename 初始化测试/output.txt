@@ -1,0 +1,53 @@
+Virtual User Script started at : 2013-07-31 19:08:52
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\桌面\阿里云脚本\初始化测试\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点
+Action.c(31): Notify: Transaction "WCF调用" started.
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9598"
+Action.c(33): t=584ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 185\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Wed, 31 Jul 2013 11:08:38 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=611ms: 185-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9598\\\\download\\\\20130731\\\\07cf3d3c-1237-4ca2-901c-96b8b202341
+Action.c(33):     9.jitdfz","FailFileName":null,"LastUpdateTime":"2013-07-31 11:30:32 702","Message":null,"R
+Action.c(33):     esultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9598\\download\\20130731\\07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz".
+Action.c(33): Notify: Saving Parameter "FileName = 07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz".
+Action.c(33): web_custom_request("ListThemes") was successful, 185 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 0.5082 Wasted Time: 0.3956).
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9598\\download\\20130731\\07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz"
+Action.c(55): This is the first flightnumber 58\\9598\\download\\20130731\\07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz"
+Action.c(56): This is the first flightnumber 07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!
+Action.c(69): Rendezvous FTP下载
+Action.c(71): Notify: Transaction "下载文件" started.
+Action.c(73): Debug message:Ftp Logon successful.
+Action.c(79): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9598\\download\\20130731\\07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz"
+Action.c(79): Notify: Parameter Substitution: parameter "FileName" =  "07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz"
+Action.c(79): Debug message:Getting file 58//9598//download//20130731//07cf3d3c-1237-4ca2-901c-96b8b2023419.jitdfz, passive mode set to 1
+Action.c(79): Debug message:Ftp Get finished successfully.
+Action.c(90): Debug message:Ftp Session closed successfully.
+Action.c(92): Notify: Transaction "下载文件" ended with "Pass" status (Duration: 0.3570).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

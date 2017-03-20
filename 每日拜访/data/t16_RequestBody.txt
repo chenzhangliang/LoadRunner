@@ -1,0 +1,1 @@
+"customer=clienttest&username=021-580001&userpwd=8888"

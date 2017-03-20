@@ -1,0 +1,246 @@
+Debug Message:
+	Correlation engine instance created; using configuration Default
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	TaskID=3  URL=http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/basic.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/css/validate.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/btn-login.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/validate.var.cn.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/validate.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/ad.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/common.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/theme.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/jquery-1.4.2.min.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/index-main-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/login-bg.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/username-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/password-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/username-bg1.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx?method=UserLogin&r=0.545917712508873
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	TaskID=37  URL=http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/webcontrol.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Css/jit-all.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/javascript/Other/jquery-1.9.0.min.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/reset.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/style.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/javascript/Other/menu.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/Resources/css/ext-all-gray.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/locale/ext-lang-zh_CN.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/ext-all.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Button.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/CommonValidate.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/JITPage.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/pub/JTIPagePannel.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Warehouse.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Unit.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/logo.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Jit/jit-all-dev.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/CommonMethod.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/title.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/shadow1.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/header.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	TaskID=65  URL=http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	TaskID=102  URL=http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+

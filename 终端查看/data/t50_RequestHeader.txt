@@ -1,0 +1,9 @@
+GET /css/thickbox.css HTTP/1.1
+Accept: text/css
+Referer: http://map.jitmarketing.cn:8083/default.aspx
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Host: map.jitmarketing.cn:8083
+Connection: Keep-Alive
+

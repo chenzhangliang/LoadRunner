@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Mon, 07 Jan 2013 06:39:13 GMT
+Accept-Ranges: bytes
+ETag: "512eeab4a1eccd1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Tue, 09 Jul 2013 09:03:09 GMT
+Content-Length: 755
+

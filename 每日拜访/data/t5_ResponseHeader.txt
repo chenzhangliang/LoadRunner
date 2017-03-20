@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: text/css
+Content-Encoding: gzip
+Last-Modified: Wed, 20 Feb 2013 05:15:02 GMT
+Accept-Ranges: bytes
+ETag: "4b935c3c29fce1:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 08 Jul 2013 10:33:17 GMT
+Content-Length: 1667
+

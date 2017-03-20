@@ -1,0 +1,136 @@
+﻿Ext.require(['Ext.data.*', 'Ext.grid.*']);
+
+
+var pageSize = 15;
+var w_editWin;
+var entityFields;
+var entityData;
+var entityUrl = "/web/ServiceHandler.ashx?type=loadentitylist";
+
+var grid;
+var store;
+var pageBar;
+
+Ext.onReady(function () {
+    Ext.define("KPI", {
+        extend: "Ext.data.Model",
+        fields: ['id','name','kpi']
+    });
+
+    store = new Ext.create('Ext.data.Store', {
+        pageSize: pageSize,
+        model: "KPI",
+        proxy: {
+            type: 'ajax',
+            url: entityUrl,
+            reader: {
+                type: 'json',
+                root: 'data',
+                totalProperty: "totalCount"
+            }
+        }
+    });
+
+    pageBar = new Ext.PagingToolbar({
+        displayInfo: true,
+        defaultType: 'button',
+        store: store,
+        pageSize: pageSize
+    });
+    // create the grid
+    grid = Ext.create('Ext.grid.Panel', {
+        store: store,
+        columns: eval("[            { text: \"区域编号\", dataIndex: 'id'},            { text: \"标题\", dataIndex: 'id',sortable: true },            { text: \"KPI\",dataIndex: 'id', sortable: true }        ]"),
+        width: 685,
+        height: 360,
+        bbar: pageBar
+    });
+
+    var x = $(window).width();
+    var y = $(window).height();
+    w_editWin = new Ext.create('Ext.window.Window', {
+        height: 228,
+        title: '显示数据',
+        width: 331,
+        componentCls: "windowcontent",
+        layout: 'fit',
+        draggable: true,
+        items: [grid],
+        border: 0,
+        x: x - 331,
+        y: y - 258,
+        buttons: ['->', {
+            text: '导出',
+            handler: function () {
+                exportData();
+            }
+        }, {
+            text: '取消',
+            handler: function () {
+                w_editWin.hide();
+            }
+        }],
+        closeAction: 'hide'
+    });
+});
+
+
+function loadData(kpiId, type) {
+    var entityFields, gridCloumn;
+    $.ajax({
+        type: "get",
+        url: "/web/ServiceHandler.ashx?type=loadentityfields",
+        data: "r=" + Math.random(),
+        async: false,
+        success: function (data) {
+            if (data != "") {
+                entityFields = data;
+            }
+        }
+    });
+
+    $.ajax({
+        type: "get",
+        url: "/web/ServiceHandler.ashx?type=loadgridcloumn&kpiid="+kpiId+"&kpitype="+type,
+        data: "r=" + Math.random(),
+        async: false,
+        success: function (data) {
+            if (data != "") {
+                gridCloumn = data;
+            }
+        }
+    });
+
+    Ext.define('KPI', {
+        extend: 'Ext.data.Model',
+        fields: eval(entityFields)
+    });
+
+    store = new Ext.create('Ext.data.Store', {
+        pageSize: pageSize,
+        model: "KPI",
+        proxy: {
+            type: 'ajax',
+            url: entityUrl,
+            reader: {
+                type: 'json',
+                root: 'data',
+                totalProperty: "totalCount"
+            }
+        }
+    });
+
+    grid.reconfigure(store, eval(gridCloumn));
+
+    // 重新加载数据
+    store = grid.getStore();
+    pageBar.bind(store);
+
+    store.proxy.url = entityUrl;
+    store.load({
+        params: {
+            limit: pageSize,
+            page: 1
+        }
+    });
+}

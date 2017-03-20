@@ -1,0 +1,168 @@
+﻿//导出图片
+function exportMap() {
+    //var p = index._map_product_ExportMap();
+    //self.parent.generatMap(p);
+    index._map_product_ExportMap();
+}
+
+//显示设置
+function viewSet(args) {
+    index._map_product_BaseMapSwitch(args.bgvalue);
+    var kpitype = 3;
+    if (args.numvalue && args.wordvalue) {
+        kpitype = 3;
+    }
+    else if (args.numvalue && !args.wordvalue) {
+        kpitype = 2;
+    }
+    else if (!args.numvalue && args.wordvalue) {
+        kpitype = 1;
+    }
+    else {
+        kpitype = 4;
+    }
+    index._map_product_ShowKpi(kpitype);
+}
+
+//删除地图
+function deleteMap() {
+    try {
+        _map_product_DelKpiLayer();
+        self.parent.saveData("", "", "");
+    }
+    catch (e) { alert(e) }
+}
+
+var kpiId = new Number(0);
+function renderKPI(kpiid) {
+    kpiId = kpiid;
+    var kpi = {};
+    if (kpiid == 9001) {
+        kpi.skpi_code = "9001";
+        kpi.skpi_label = "覆盖分布点";
+        kpi.skpi_uint = "";
+        kpi.skpi_level = "1";
+        kpi.style_code = "SG";
+        kpi.style_label = "覆盖分布图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnStruct"; //"ReturnKPI";
+    }
+    else if (kpiid == 1033) {
+        kpi.skpi_code = "1033";
+        kpi.skpi_label = "覆盖分布面";
+        kpi.skpi_uint = "个";
+        kpi.skpi_level = "1";
+        kpi.style_code = "SA";
+        kpi.style_label = "覆盖分布图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI"; //"ReturnKPI";
+    }
+    else if (kpiid == 1007) {
+        kpi.skpi_code = "1007";
+        kpi.skpi_label = "2010年末常住人口";
+        kpi.skpi_uint = "万人";
+        kpi.skpi_level = "3";
+        kpi.style_code = "SA";
+        kpi.style_label = "钻取图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI";
+    }
+    else if (kpiid == 1008) {
+        kpi.skpi_code = "1008";
+        kpi.skpi_label = "品牌铺货率";
+        kpi.skpi_uint = "%";
+        kpi.skpi_level = "4";
+        kpi.style_code = "SA";
+        kpi.style_label = "钻取图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI";
+    }
+    else if (kpiid == 1032) {
+        kpi.skpi_code = "1032";
+        kpi.skpi_label = "渠道占比";
+        kpi.skpi_uint = "";
+        kpi.skpi_level = "4";
+        kpi.style_code = "SI";
+        kpi.style_label = "饼图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI";
+    }
+    else if (kpiid == 1031) {
+        kpi.skpi_code = "1031";
+        kpi.skpi_label = "终端销量";
+        kpi.skpi_uint = "万元";
+        kpi.skpi_level = "4";
+        kpi.style_code = "SA";
+        kpi.style_label = "钻取图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI";
+    }
+    else if (kpiid == 1034) {
+        kpi.skpi_code = "1034";
+        kpi.skpi_label = "终端分布";
+        kpi.skpi_uint = "个";
+        kpi.skpi_level = "4";
+        kpi.style_code = "SA";
+        kpi.style_label = "钻取图";
+        kpi.query_url = "";
+        kpi.query_methed = "ReturnKPI";
+    }
+    index._map_product_RenderKpi(kpi); 
+}
+
+function _map_product_ReturnKpi_js(strKPI, strType, idType, ids) {
+    $.get("/web/ServiceHandler.ashx?type=returnkpi",
+    { strKPI: strKPI, strType: strType, idType: idType, ids: ids },
+    function (respose) {
+        index._map_product_RenderKpi_Back(respose);
+        //alert(respose);
+        //self.parent.saveData(respose);
+    });
+}
+
+function _map_product_ReturnStruct_js() {
+    $.get("/web/ServiceHandler.ashx?type=returnstruct", function (respose) {
+        index._map_product_RenderKpi_Back(respose);
+        //alert(respose);
+        //self.parent.saveData(respose);
+    });
+}
+
+function _map_InitMap() {
+    //renderKPI(9001);
+    //renderKPI(1031);
+	if(self.parent.JITMethod.getUrlParam("kpiid")!=null)
+	{
+		renderKPI(self.parent.JITMethod.getUrlParam("kpiid"));
+	}
+	else
+	{
+		renderKPI(1031);
+	}
+}
+
+//数据筛选
+function dataSearch(values) {
+    index._map_product_FilterPoint(values);
+}
+
+var layer = new String("");
+function _map_product_NoticeData_js(jdata, type) {
+    var datachange = new Boolean(false);
+    if (layer == "") {
+        //初次加载
+        datachange = true;
+        layer = type;
+    }
+    else {
+        //地图图层切换
+        datachange = layer != type;
+        layer = (datachange ? type : layer);
+    }
+//    alert(type+"====="+jdata);
+    if (datachange) {
+        //alert(1);
+        //alert(jdata);
+        self.parent.saveData(kpiId, type, jdata);
+    }
+}

@@ -1,0 +1,13 @@
+[t24]
+FileName1=t24_ext-all-gray.css
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/Resources/css/ext-all-gray.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

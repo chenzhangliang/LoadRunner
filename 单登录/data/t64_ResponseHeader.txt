@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-shockwave-flash
+Last-Modified: Fri, 01 Feb 2013 02:36:41 GMT
+Accept-Ranges: bytes
+ETag: "821eb4f7240ce1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Wed, 10 Jul 2013 05:24:16 GMT
+Content-Length: 2027362
+

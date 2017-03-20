@@ -1,0 +1,13 @@
+[t100]
+FileName1=t100_exportMap.swf
+URL1=http://map.jitmarketing.cn:8083/map/widgets/jit/product/ExportMapJS/exportMap.swf
+Total=1
+ContentType=application/x-shockwave-flash
+SnapshotXmlFile=snapshot_100.xml
+RequestHeaderFile=t100_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t100_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

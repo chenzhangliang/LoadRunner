@@ -1,0 +1,13 @@
+[t54]
+FileName1=t54_icon6.jpg
+URL1=http://map.jitmarketing.cn:8083/images/icon6.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_54.xml
+RequestHeaderFile=t54_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t54_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

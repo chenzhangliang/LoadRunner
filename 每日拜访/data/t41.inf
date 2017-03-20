@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41_style.css
+URL1=http://map.jitmarketing.cn:8083/css/style.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_41.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

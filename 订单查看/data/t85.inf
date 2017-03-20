@@ -1,0 +1,13 @@
+[t85]
+FileName1=t85_ServiceHandler.txt
+URL1=http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=returnkpi&strKPI=1031&strType=1&idType=&ids=
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_85.xml
+RequestHeaderFile=t85_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t85_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,10 @@
+GET /framework/image/shadow1.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: http://180.153.154.42/default.aspx
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Host: 180.153.154.42
+Connection: Keep-Alive
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=ej1c0zlzb424tyd5bonawzm0
+

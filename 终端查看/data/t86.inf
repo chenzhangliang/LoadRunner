@@ -1,0 +1,13 @@
+[t86]
+FileName1=t86.txt
+URL1=http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=savedata
+Total=1
+RequestHeaderFile=t86_RequestHeader.txt
+RequestBodyFile=t86_RequestBody.txt
+ResponseHeaderFile=t86_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_86.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

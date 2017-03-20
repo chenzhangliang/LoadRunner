@@ -1,0 +1,12 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=text/plain
+StepName=Custom Request: ListThemes
+Total=1
+FileName1=t1.UNK
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RequestBodyFile=t1_RequestBody.txt
+URL1=http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest
+[AdditionalInfo]
+IsIgnorable=1

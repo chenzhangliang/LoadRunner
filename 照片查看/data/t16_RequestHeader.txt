@@ -1,0 +1,14 @@
+POST /login.aspx?method=UserLogin&r=0.3058602101817841 HTTP/1.1
+Referer: http://180.153.154.42/login.aspx
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Accept: */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Host: 180.153.154.42
+Content-Length: 52
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=b4h12i0i5pdkmuoz2pbbzsuk
+

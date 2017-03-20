@@ -1,0 +1,11 @@
+[t138]
+FileName1=t138.htm
+URL1=http://180.153.154.42/Module/VisitingData/photo/Handler/TaskDataPhotoHandler.ashx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&btncode=search&method=GetTaskList&_dc=1373360714134&page=1&start=0&limit=25
+Total=1
+RequestHeaderFile=t138_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t138_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_138.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

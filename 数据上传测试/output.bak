@@ -1,0 +1,49 @@
+Virtual User Script started at : 2013-07-30 18:53:17
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\桌面\阿里云脚本\数据上传测试\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中
+Action.c(20): Notify: Transaction "文件上传" started.
+Action.c(22): Debug message:Ftp Logon successful.
+Action.c(27): Debug message:Putting file D:\FTP\Package\000741a8-5155-4945-a6a3-66a93a6e9457.jitdf in /DataSyncTesting/000741a8-5155-4945-a6a3-66a93a6e9457.jitdf, passive mode set to 1
+Action.c(27): Debug message:Ftp put of D:\FTP\Package\000741a8-5155-4945-a6a3-66a93a6e9457.jitdf finished successfully
+Action.c(27): Debug message:Ftp Put ended successfully.
+Action.c(39): Debug message:Ftp Session closed successfully.
+Action.c(43): Notify: Transaction "文件上传" ended with "Pass" status (Duration: 1.6979).
+Action.c(48): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(48): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(50): Rendezvous WCF集合点
+Action.c(52): Notify: Transaction "WCF调用" started.
+Action.c(54): Notify: Parameter Substitution: parameter "FileName" =  "301d156d-0b6a-4431-bb3b-15f47acec917.jitdf"
+Action.c(54): Notify: Parameter Substitution: parameter "User" =  "9598"
+Action.c(54): t=2318ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(54):     HTTP/1.1 200 OK\r\n
+Action.c(54):     Content-Length: 112\r\n
+Action.c(54):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(54):     Server: Microsoft-IIS/7.5\r\n
+Action.c(54):     X-Powered-By: ASP.NET\r\n
+Action.c(54):     Date: Tue, 30 Jul 2013 10:53:08 GMT\r\n
+Action.c(54):     \r\n
+Action.c(54): t=2345ms: 112-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(54):     {"DownloadFile":null,"FailFileName":[],"LastUpdateTime":"2013-07-17 11:46:45 567","Message
+Action.c(54):     ":null,"ResultCode":0}
+Action.c(54): Notify: Saving Parameter "WcfResponse = 0".
+Action.c(54): web_custom_request("ListThemes") was successful, 112 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(75): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"
+Action.c(75): 参数值为0
+Action.c(83): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 0.5239 Wasted Time: 0.3964).
+Action.c(92): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"
+Action.c(93): 成功
+Action.c(94): Notify: Parameter Substitution: parameter "WcfResponse" =  "0"
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

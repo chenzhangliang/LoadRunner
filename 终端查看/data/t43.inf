@@ -1,0 +1,13 @@
+[t43]
+FileName1=t43_icon9.jpg
+URL1=http://map.jitmarketing.cn:8083/images/icon9.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_43.xml
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

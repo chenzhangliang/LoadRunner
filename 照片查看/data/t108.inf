@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108_i_exportmap.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_exportmap.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_108.xml
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t108_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

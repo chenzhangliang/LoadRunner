@@ -1,0 +1,11 @@
+[t120]
+FileName1=t120_ClientStructure.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/ClientStructure.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_120.xml
+RequestHeaderFile=t120_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t120_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

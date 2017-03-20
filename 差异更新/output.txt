@@ -1,0 +1,20 @@
+Virtual User Script started at : 2013-08-20 13:27:54
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\桌面\阿里云脚本\差异更新\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(8): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(17): Rendezvous 上传集中
+Action.c(20): Notify: Transaction "文件上传" started.
+Action.c(22): Error -86002:Failed to establish connection to 112.124.9.72:8021
+Action.c(22): Error -86008:Logon Session failed 
+Action.c(22): Notify: Transaction "文件上传" ended with "Fail" status (Duration: 21.0814).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

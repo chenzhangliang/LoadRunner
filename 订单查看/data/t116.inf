@@ -1,0 +1,13 @@
+[t116]
+FileName1=t116_OrderView.html
+URL1=http://180.153.154.42/Module/Order/Order/View/OrderView.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_116.xml
+RequestHeaderFile=t116_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t116_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,13 @@
+[t71]
+FileName1=t71_crossdomain.xml
+URL1=http://report.jitmarketing.cn:7080/crossdomain.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_71.xml
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t71_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,13 @@
+[t113]
+FileName1=t113_JITStoreFrmWindow.html
+URL1=http://180.153.154.42/Framework/Javascript/pub/JITStoreFrmWindow.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_113.xml
+RequestHeaderFile=t113_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t113_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Length: 3085
+Content-Type: text/plain;charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-Powered-By: Portable Basemap Server
+Date: Sun, 07 Jul 2013 14:39:22 GMT
+

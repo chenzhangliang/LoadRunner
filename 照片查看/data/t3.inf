@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3_validate.html
+URL1=http://180.153.154.42/Framework/Javascript/other/validate/validate.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

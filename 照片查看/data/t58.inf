@@ -1,0 +1,13 @@
+[t58]
+FileName1=t58.htm
+URL1=http://map.jitmarketing.cn:8083/map/index.html
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_58.xml
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

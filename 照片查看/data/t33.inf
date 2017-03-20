@@ -1,0 +1,13 @@
+[t33]
+FileName1=t33_CommonValidate.html
+URL1=http://180.153.154.42/Framework/Javascript/Utility/CommonValidate.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_33.xml
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

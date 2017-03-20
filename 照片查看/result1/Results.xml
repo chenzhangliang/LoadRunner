@@ -1,0 +1,727 @@
+﻿<?xml version="1.0"?>
+  <!DOCTYPE Report
+[
+<!ELEMENT Report (General ,(Doc|BPT)) >
+<!ATTLIST Report ver CDATA #REQUIRED tmZone CDATA #REQUIRED>
+
+<!ELEMENT General ( DocLocation ) >
+<!ATTLIST General productName CDATA #REQUIRED productVer CDATA #REQUIRED os CDATA #REQUIRED host CDATA #REQUIRED>
+
+<!ELEMENT BPT (DName,Res,DVer?,TSet?,TInst?,NodeArgs,Doc*) >
+<!ATTLIST BPT rID ID #REQUIRED >
+
+<!ELEMENT Doc (DName, Res, DVer?, TSet?, TInst?, RunType?, DT?, Step*, Action+, DIter*, Action*, Summary?, NodeArgs?)> 
+<!ATTLIST Doc rID ID #REQUIRED type (Test|BC) "Test" productName CDATA #REQUIRED BCIter CDATA #IMPLIED >
+
+<!ELEMENT RunType ( #PCDATA )>
+<!ATTLIST RunType fmStep (False|True) "False" batch (False|True) "False" upDesc (False|True) "False" upChk (False|True) "False" upAS (False|True) "False">
+
+<!ELEMENT DName ( #PCDATA ) >
+
+<!ELEMENT Res ( #PCDATA ) >
+
+<!ELEMENT DVer ( #PCDATA ) >
+
+<!ELEMENT TSet ( #PCDATA ) >
+
+<!ELEMENT TInst ( #PCDATA ) >
+
+<!ELEMENT DIter (Step?,Action+,Summary?,NodeArgs)>
+<!ATTLIST DIter rID ID #REQUIRED iterID CDATA #REQUIRED>
+
+<!ELEMENT DocLocation ( #PCDATA )>
+
+<!ELEMENT Action (AName,AIter*,(Step|HtmlStep|Action)*,Summary,NodeArgs) >
+<!ATTLIST Action rID ID #REQUIRED>
+
+<!ELEMENT AIter ((Step|HtmlStep|Action)*,Summary?,NodeArgs) >
+<!ATTLIST AIter rID ID #REQUIRED iterID CDATA #REQUIRED>
+
+<!ELEMENT AName ( #PCDATA ) >
+
+<!ELEMENT Step (Obj,Details,Time,(Step|HtmlStep|Doc)*,NodeArgs) >
+<!ATTLIST Step rID ID #REQUIRED retval CDATA #IMPLIED>
+
+<!ELEMENT HtmlStep (HTML,(Step|HtmlStep|Doc)*,NodeArgs) >
+<!ATTLIST HtmlStep rID ID #REQUIRED >
+
+<!ELEMENT Obj ( #PCDATA ) >
+<!ATTLIST Obj plainTxt (False|True) "True">
+
+<!ELEMENT Details ( #PCDATA ) >
+<!ATTLIST Details plainTxt (False|True) "True">
+
+<!ELEMENT Time ( #PCDATA ) >
+
+<!ELEMENT HTML ( #PCDATA ) >
+
+<!ELEMENT Disp ( #PCDATA ) >
+
+<!ELEMENT NodeArgs (Disp,TopPane?,BtmPane?)>
+<!ATTLIST NodeArgs eType CDATA #REQUIRED icon CDATA #REQUIRED nRep CDATA #REQUIRED filter (False|True) "True">
+<!ATTLIST NodeArgs status (Passed|Failed|Done|Warning|Information) "Done">
+<!ATTLIST NodeArgs iconSel CDATA #IMPLIED nType CDATA #IMPLIED >
+
+<!ELEMENT TopPane (Path)>
+
+<!ELEMENT BtmPane ( (Path|WR)?,ASHilite?)>
+<!ATTLIST BtmPane vType CDATA "HTML">
+
+<!ELEMENT Path ( #PCDATA ) >
+
+<!ELEMENT ASHilite ( #PCDATA ) >
+
+<!ELEMENT WR ( #PCDATA ) >
+
+<!ELEMENT DT (NodeArgs) >
+<!ATTLIST DT rID ID #REQUIRED>
+
+<!ELEMENT Summary (Param*)>
+<!ATTLIST Summary sTime CDATA #IMPLIED eTime CDATA #IMPLIED passed CDATA #IMPLIED failed CDATA #IMPLIED warnings CDATA #IMPLIED retval CDATA #IMPLIED stopped (False|True) "False" >
+
+<!ELEMENT Param (ParamName,ParamVal)+ >
+<!ATTLIST Param paramInOut (In|Out) "In">
+
+<!ELEMENT ParamName ( #PCDATA ) >
+
+<!ELEMENT ParamVal ( #PCDATA ) >
+
+]
+> <Report ver="2.0" tmZone="中国标准时间">
+<General productName="Vugen" productVer="11" os="" host="PC-20130716LBIM"><DocLocation><![CDATA[C:\Documents and Settings\Administrator\桌面\阿里云脚本\照片查看]]></DocLocation></General>
+<Doc rID="T1"   productName= "Vugen"  >
+<DName><![CDATA[照片查看]]></DName>
+<Res><![CDATA[result1]]></Res>
+<Action rID="T2">
+<AName><![CDATA[vuser_init]]></AName>
+<Step rID="T3">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; DOMAIN=112.124.44.147</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:49]]></Time>
+<NodeArgs eType="General" icon="3" nRep="6" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T4">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; DOMAIN=112.124.44.147</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:49]]></Time>
+<NodeArgs eType="General" icon="3" nRep="7" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T5">
+<Obj plainTxt="False" ><![CDATA[Url: login.aspx]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="8" status="Passed" >
+<Disp><![CDATA[Url: login.aspx]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t1.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T6">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - start]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group started</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="5" nRep="9" >
+<Disp><![CDATA[Service: Concurrent Group - start]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T7">
+<Obj plainTxt="False" ><![CDATA[Url: basic.css]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: basic.css registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="10" >
+<Disp><![CDATA[Url: basic.css]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T8">
+<Obj plainTxt="False" ><![CDATA[Url: validate.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: validate.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="11" >
+<Disp><![CDATA[Url: validate.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T9">
+<Obj plainTxt="False" ><![CDATA[Url: btn-login.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: btn-login.jpg registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="12" >
+<Disp><![CDATA[Url: btn-login.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T10">
+<Obj plainTxt="False" ><![CDATA[Url: validate.css]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: validate.css registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="13" >
+<Disp><![CDATA[Url: validate.css]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T11">
+<Obj plainTxt="False" ><![CDATA[Url: validate.var.cn.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: validate.var.cn.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="14" >
+<Disp><![CDATA[Url: validate.var.cn.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T12">
+<Obj plainTxt="False" ><![CDATA[Url: ad.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: ad.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="15" >
+<Disp><![CDATA[Url: ad.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T13">
+<Obj plainTxt="False" ><![CDATA[Url: theme.css]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: theme.css registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="16" >
+<Disp><![CDATA[Url: theme.css]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T14">
+<Obj plainTxt="False" ><![CDATA[Url: common.css]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: common.css registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="17" >
+<Disp><![CDATA[Url: common.css]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T15">
+<Obj plainTxt="False" ><![CDATA[Url: jquery-1.4.2.min.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: jquery-1.4.2.min.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:50]]></Time>
+<NodeArgs eType="General" icon="4" nRep="18" >
+<Disp><![CDATA[Url: jquery-1.4.2.min.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T16">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - end]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group ended</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="6" nRep="19" >
+<Disp><![CDATA[Service: Concurrent Group - end]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T17">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - start]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group started</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="5" nRep="20" >
+<Disp><![CDATA[Service: Concurrent Group - start]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T18">
+<Obj plainTxt="False" ><![CDATA[Url: index-main-bg.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: index-main-bg.jpg registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="4" nRep="21" >
+<Disp><![CDATA[Url: index-main-bg.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T19">
+<Obj plainTxt="False" ><![CDATA[Url: login-bg.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: login-bg.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="4" nRep="22" >
+<Disp><![CDATA[Url: login-bg.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T20">
+<Obj plainTxt="False" ><![CDATA[Url: username-bg1.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: username-bg1.jpg registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="4" nRep="23" >
+<Disp><![CDATA[Url: username-bg1.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T21">
+<Obj plainTxt="False" ><![CDATA[Url: username-bg.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: username-bg.jpg registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="4" nRep="24" >
+<Disp><![CDATA[Url: username-bg.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T22">
+<Obj plainTxt="False" ><![CDATA[Url: password-bg.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: password-bg.jpg registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="4" nRep="25" >
+<Disp><![CDATA[Url: password-bg.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T23">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - end]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group ended</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:51]]></Time>
+<NodeArgs eType="General" icon="6" nRep="26" >
+<Disp><![CDATA[Service: Concurrent Group - end]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T24">
+<Obj plainTxt="False" ><![CDATA[Submit Data: login.aspx_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="7" nRep="27" status="Passed" >
+<Disp><![CDATA[Submit Data: login.aspx_2]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t2.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T25">
+<Obj plainTxt="False" ><![CDATA[Url: default.aspx]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="28" status="Passed" >
+<Disp><![CDATA[Url: default.aspx]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t3.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2013-7-30 - 18:17:49" eTime="2013-7-30 - 18:17:52" passed="3" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="5" status="Passed" >
+<Disp><![CDATA[vuser_init Summary]]></Disp>
+</NodeArgs>
+</Action>
+<DIter rID="T26" iterID="1" >
+<Action rID="T27">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T28">
+<Obj plainTxt="False" ><![CDATA[Url: default.aspx_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="32" status="Passed" >
+<Disp><![CDATA[Url: default.aspx_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T29">
+<Obj plainTxt="False" ><![CDATA[Url: 拜访照片查看]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="33" status="Passed" >
+<Disp><![CDATA[Url: 拜访照片查看]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T30">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - start]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group started</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="5" nRep="34" >
+<Disp><![CDATA[Service: Concurrent Group - start]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T31">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataFileCtl.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataFileCtl.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="35" >
+<Disp><![CDATA[Url: TaskDataFileCtl.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T32">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataFileVM.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataFileVM.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="36" >
+<Disp><![CDATA[Url: TaskDataFileVM.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T33">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataFileView.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataFileView.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="37" >
+<Disp><![CDATA[Url: TaskDataFileView.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T34">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataFileVMStore.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataFileVMStore.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="38" >
+<Disp><![CDATA[Url: TaskDataFileVMStore.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T35">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - end]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group ended</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="6" nRep="39" >
+<Disp><![CDATA[Service: Concurrent Group - end]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T36">
+<Obj plainTxt="False" ><![CDATA[Url: loading.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:52]]></Time>
+<NodeArgs eType="General" icon="4" nRep="40" status="Passed" >
+<Disp><![CDATA[Url: loading.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T37">
+<Obj plainTxt="False" ><![CDATA[Custom Request: TaskDataFileHandler.ashx]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="9" nRep="41" status="Passed" >
+<Disp><![CDATA[Custom Request: TaskDataFileHandler.ashx]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T38">
+<Obj plainTxt="False" ><![CDATA[Url: file.jpg]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="42" status="Passed" >
+<Disp><![CDATA[Url: file.jpg]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T39">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataphoto.aspx]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="43" status="Passed" >
+<Disp><![CDATA[Url: TaskDataphoto.aspx]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t7.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T40">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - start]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group started</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="5" nRep="44" >
+<Disp><![CDATA[Service: Concurrent Group - start]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T41">
+<Obj plainTxt="False" ><![CDATA[Url: ClientStructure.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: ClientStructure.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="45" >
+<Disp><![CDATA[Url: ClientStructure.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T42">
+<Obj plainTxt="False" ><![CDATA[Url: ClientPosition.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: ClientPosition.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="46" >
+<Disp><![CDATA[Url: ClientPosition.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T43">
+<Obj plainTxt="False" ><![CDATA[Url: JITStoreGrid.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: JITStoreGrid.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="47" >
+<Disp><![CDATA[Url: JITStoreGrid.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T44">
+<Obj plainTxt="False" ><![CDATA[Url: JITStoreSearchPannel.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: JITStoreSearchPannel.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="48" >
+<Disp><![CDATA[Url: JITStoreSearchPannel.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T45">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataPhotoCtl.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataPhotoCtl.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="49" >
+<Disp><![CDATA[Url: TaskDataPhotoCtl.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T46">
+<Obj plainTxt="False" ><![CDATA[Url: jquery.fancybox-1.3.1.css]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: jquery.fancybox-1.3.1.css registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="50" >
+<Disp><![CDATA[Url: jquery.fancybox-1.3.1.css]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T47">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataPhotoVM.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataPhotoVM.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="51" >
+<Disp><![CDATA[Url: TaskDataPhotoVM.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T48">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataPhotoVMStore.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataPhotoVMStore.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="52" >
+<Disp><![CDATA[Url: TaskDataPhotoVMStore.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T49">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataPhotoView.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: TaskDataPhotoView.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="53" >
+<Disp><![CDATA[Url: TaskDataPhotoView.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T50">
+<Obj plainTxt="False" ><![CDATA[Url: ImageView.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: ImageView.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="54" >
+<Disp><![CDATA[Url: ImageView.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T51">
+<Obj plainTxt="False" ><![CDATA[Url: window1.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: window1.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="55" >
+<Disp><![CDATA[Url: window1.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T52">
+<Obj plainTxt="False" ><![CDATA[Url: options.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: options.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="56" >
+<Disp><![CDATA[Url: options.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T53">
+<Obj plainTxt="False" ><![CDATA[Url: Province.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: Province.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="57" >
+<Disp><![CDATA[Url: Province.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T54">
+<Obj plainTxt="False" ><![CDATA[Url: District.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: District.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="58" >
+<Disp><![CDATA[Url: District.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T55">
+<Obj plainTxt="False" ><![CDATA[Url: City.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: City.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="59" >
+<Disp><![CDATA[Url: City.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T56">
+<Obj plainTxt="False" ><![CDATA[Url: JITStoreSelectPannel.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: JITStoreSelectPannel.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="60" >
+<Disp><![CDATA[Url: JITStoreSelectPannel.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T57">
+<Obj plainTxt="False" ><![CDATA[Url: jquery.fancybox-1.3.1.js]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: jquery.fancybox-1.3.1.js registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:54]]></Time>
+<NodeArgs eType="General" icon="4" nRep="61" >
+<Disp><![CDATA[Url: jquery.fancybox-1.3.1.js]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T58">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - end]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group ended</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="6" nRep="62" >
+<Disp><![CDATA[Service: Concurrent Group - end]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T59">
+<Obj plainTxt="False" ><![CDATA[Url: link.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="63" status="Passed" >
+<Disp><![CDATA[Url: link.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T60">
+<Obj plainTxt="False" ><![CDATA[Url: TaskDataPhotoHandler.ashx]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="64" status="Passed" >
+<Disp><![CDATA[Url: TaskDataPhotoHandler.ashx]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T61">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - start]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group started</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="5" nRep="65" >
+<Disp><![CDATA[Service: Concurrent Group - start]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T62">
+<Obj plainTxt="False" ><![CDATA[Url: exclamation.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: exclamation.gif registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="66" >
+<Disp><![CDATA[Url: exclamation.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T63">
+<Obj plainTxt="False" ><![CDATA[Url: trigger.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: trigger.gif registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="67" >
+<Disp><![CDATA[Url: trigger.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T64">
+<Obj plainTxt="False" ><![CDATA[Url: date-trigger.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: date-trigger.gif registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="68" >
+<Disp><![CDATA[Url: date-trigger.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T65">
+<Obj plainTxt="False" ><![CDATA[Url: text-bg.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: text-bg.gif registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="69" >
+<Disp><![CDATA[Url: text-bg.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T66">
+<Obj plainTxt="False" ><![CDATA[Url: button.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: button.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="70" >
+<Disp><![CDATA[Url: button.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T67">
+<Obj plainTxt="False" ><![CDATA[Url: fancybox-x.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: fancybox-x.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="71" >
+<Disp><![CDATA[Url: fancybox-x.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T68">
+<Obj plainTxt="False" ><![CDATA[Url: buttoncurrent.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: buttoncurrent.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="72" >
+<Disp><![CDATA[Url: buttoncurrent.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T69">
+<Obj plainTxt="False" ><![CDATA[Url: fancybox-y.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: fancybox-y.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="73" >
+<Disp><![CDATA[Url: fancybox-y.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T70">
+<Obj plainTxt="False" ><![CDATA[Url: blank.gif]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: blank.gif registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="74" >
+<Disp><![CDATA[Url: blank.gif]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T71">
+<Obj plainTxt="False" ><![CDATA[Url: fancybox.png]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Url: fancybox.png registered successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="75" >
+<Disp><![CDATA[Url: fancybox.png]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T72">
+<Obj plainTxt="False" ><![CDATA[Service: Concurrent Group - end]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Concurrent Group ended</CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="6" nRep="76" >
+<Disp><![CDATA[Service: Concurrent Group - end]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T73">
+<Obj plainTxt="False" ><![CDATA[Submit Data: TaskDataPhotoHandler.ashx_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="7" nRep="77" status="Passed" >
+<Disp><![CDATA[Submit Data: TaskDataPhotoHandler.ashx_2]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2013-7-30 - 18:17:52" eTime="2013-7-30 - 18:17:55" passed="9" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="31" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="8" nRep="30" status="Passed" >
+<Disp><![CDATA[照片查看 Iteration 1 (Row 1)]]></Disp>
+</NodeArgs>
+</DIter>
+<Action rID="T74">
+<AName><![CDATA[vuser_end]]></AName>
+<Step rID="T75">
+<Obj plainTxt="False" ><![CDATA[Url: default.aspx_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="81" status="Passed" >
+<Disp><![CDATA[Url: default.aspx_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t10.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T76">
+<Obj plainTxt="False" ><![CDATA[Url: login.aspx_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2013-7-30 - 18:17:55]]></Time>
+<NodeArgs eType="General" icon="4" nRep="82" status="Passed" >
+<Disp><![CDATA[Url: login.aspx_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t11.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2013-7-30 - 18:17:55" eTime="2013-7-30 - 18:17:55" passed="2" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="80" status="Passed" >
+<Disp><![CDATA[vuser_end Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Summary sTime="2013-7-30 - 18:17:49" eTime="2013-7-30 - 18:17:55" passed="14" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
+<Disp><![CDATA[Test 照片查看 Summary]]></Disp>
+</NodeArgs>
+</Doc>
+</Report>

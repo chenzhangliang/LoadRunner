@@ -1,0 +1,11 @@
+[t91]
+FileName1=t91_ServiceHandler.txt
+URL1=http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.14220011612544153
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_91.xml
+RequestHeaderFile=t91_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t91_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

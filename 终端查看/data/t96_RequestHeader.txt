@@ -1,0 +1,12 @@
+GET /web/ServiceHandler.ashx?type=loadentityfields&r=0.47940307908142465 HTTP/1.1
+Referer: http://map.jitmarketing.cn:8083/default.aspx
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Accept: */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Host: map.jitmarketing.cn:8083
+Connection: Keep-Alive
+Cookie: Hm_lvt_1c461506d0738315043e0ab9f52dde5a=1372991690; ASP.NET_SessionId=y0ntmo5astj3zxw21mw01w3t
+

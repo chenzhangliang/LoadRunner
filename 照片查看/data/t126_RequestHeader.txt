@@ -1,0 +1,10 @@
+GET /Module/VisitingData/photo/Model/TaskDataPhotoVM.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://180.153.154.42/Module/VisitingData/photo/TaskDataphoto.aspx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&VisitingTaskID=d9385bdc-532d-4a94-a398-dff9b5f7ee4f&VisitingTaskStepID=null&VisitingTaskName=%u5DE5%u4F5C%u4EFB%u52A1&StepName=%u8FDB%u51FA%u5E97
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Host: 180.153.154.42
+Connection: Keep-Alive
+Cookie: CCCJKLFAJUIORW=k1M+L9BW+dyABTNw1zwJzQ==; CWRWQFAJKLUOIL=/tDXJc/YRytlx7n/GGg6gg==; ASP.NET_SessionId=b4h12i0i5pdkmuoz2pbbzsuk
+

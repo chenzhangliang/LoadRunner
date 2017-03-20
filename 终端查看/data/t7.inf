@@ -1,0 +1,13 @@
+[t7]
+FileName1=t7_common.css
+URL1=http://180.153.154.42/Framework/css/common.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Documents and Settings\Administrator\桌面\阿里云脚本\终端查看
+-IC:\Program Files\HP\LoadRunner\include
+-ec:\documents and settings\administrator\桌面\阿里云脚本\终端查看\\logfile.log
+c:\documents and settings\administrator\桌面\阿里云脚本\终端查看\\combined_终端查看.c
+c:\documents and settings\administrator\桌面\阿里云脚本\终端查看\\pre_cci.c

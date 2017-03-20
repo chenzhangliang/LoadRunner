@@ -1,0 +1,13 @@
+[t66]
+FileName1=t66_config.xml
+URL1=http://map.jitmarketing.cn:8083/map/config.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_66.xml
+RequestHeaderFile=t66_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t66_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

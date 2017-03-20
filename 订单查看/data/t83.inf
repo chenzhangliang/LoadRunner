@@ -1,0 +1,13 @@
+[t83]
+FileName1=t83_ProductWidget.xml
+URL1=http://map.jitmarketing.cn:8083/map/widgets/jit/product/FlexJS/ProductWidget.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_83.xml
+RequestHeaderFile=t83_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t83_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

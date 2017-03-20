@@ -1,0 +1,2250 @@
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:30	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Virtual User Script started at : 2013-08-01 23:06:31	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 11.0.0 for WINXP; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Documents and Settings\Administrator\Local Settings\Temp\lr5tmpdir5FX.676\lrcfgSI3.677\cfgSxg.680"  	[MsgId: MMSG-27141]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(7): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(16): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(27): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+Action.c(27): web_add_auto_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(29): Rendezvous WCF集合点	[MsgId: MMSG-17988]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9901"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9936"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9934"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9924"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9929"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9912"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9930"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9928"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9944"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9906"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9946"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9915"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9903"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9937"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9941"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9913"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9911"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9923"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9899"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9919"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9907"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9917"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9945"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9905"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9933"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9918"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9942"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9904"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9926"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9916"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9902"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9940"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9910"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9935"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9938"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9900"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9922"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9908"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9932"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9898"	[MsgId: MMSG-13992]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(31): Notify: Transaction "WCF调用" started.	[MsgId: MMSG-16999]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9931"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9920"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9921"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9909"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9925"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9914"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9927"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9943"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9939"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Parameter Substitution: parameter "user" =  "9947"	[MsgId: MMSG-13992]
+Action.c(33): t=31139ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33): t=31139ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33): t=31139ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     {"DownloadFile":"58\\\\9926\\\\download\\\\20130801\\\\9a42e940-d135-4608-9b20-c890f8e634e
+Action.c(33):     c.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:00 852","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9926\\download\\20130801\\9a42e940-d135-4608-9b20-c890f8e634ec.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 9a42e940-d135-4608-9b20-c890f8e634ec.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.4995 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9926\\download\\20130801\\9a42e940-d135-4608-9b20-c890f8e634ec.jitdf"	[MsgId: MMSG-13992]
+Action.c(33): t=31139ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(55): This is the first flightnumber 58\\9926\\download\\20130801\\9a42e940-d135-4608-9b20-c890f8e634ec.jitdf	[MsgId: MMSG-17999]
+Action.c(33):     {"DownloadFile":"58\\\\9928\\\\download\\\\20130801\\\\0fca2c66-19d0-425b-b318-550ac51b227
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:03 633","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9928\\download\\20130801\\0fca2c66-19d0-425b-b318-550ac51b2277.jitdf".	[MsgId: MMSG-13798]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "9a42e940-d135-4608-9b20-c890f8e634ec.jitdf"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Saving Parameter "FileName = 0fca2c66-19d0-425b-b318-550ac51b2277.jitdf".	[MsgId: MMSG-13798]
+Action.c(56): This is the first flightnumber 9a42e940-d135-4608-9b20-c890f8e634ec.jitdf	[MsgId: MMSG-17999]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.5165 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9928\\download\\20130801\\0fca2c66-19d0-425b-b318-550ac51b2277.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9928\\download\\20130801\\0fca2c66-19d0-425b-b318-550ac51b2277.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "0fca2c66-19d0-425b-b318-550ac51b2277.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 0fca2c66-19d0-425b-b318-550ac51b2277.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31310ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31312ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9922\\\\download\\\\20130801\\\\2ebc9f25-6269-4cbd-8718-06c67db08ca
+Action.c(33):     f.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:54 899","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9922\\download\\20130801\\2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.6504 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9922\\download\\20130801\\2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9922\\download\\20130801\\2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 2ebc9f25-6269-4cbd-8718-06c67db08caf.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31325ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31326ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9912\\\\download\\\\20130801\\\\2ef30ebf-a115-4eee-944c-79923b7d6e8
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:40 227","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9912\\download\\20130801\\2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7033 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9912\\download\\20130801\\2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9912\\download\\20130801\\2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 2ef30ebf-a115-4eee-944c-79923b7d6e8d.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31341ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31341ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33):     \r\n
+Action.c(33): t=31341ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31341ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9924\\\\download\\\\20130801\\\\c730d1d0-40cb-43ea-99bd-14fd3fc4a08
+Action.c(33):     {"DownloadFile":"58\\\\9904\\\\download\\\\20130801\\\\9c0ca844-9fa4-4437-baa9-0a5680262d9
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:57 946","Message":null,"Re
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:28 664","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9924\\download\\20130801\\c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9904\\download\\20130801\\9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7355 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7018 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9924\\download\\20130801\\c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9904\\download\\20130801\\9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9924\\download\\20130801\\c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf	[MsgId: MMSG-17999]
+Action.c(55): This is the first flightnumber 58\\9904\\download\\20130801\\9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 9c0ca844-9fa4-4437-baa9-0a5680262d9d.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf"	[MsgId: MMSG-13992]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(56): This is the first flightnumber c730d1d0-40cb-43ea-99bd-14fd3fc4a08d.jitdf	[MsgId: MMSG-17999]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31372ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31373ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9899\\\\download\\\\20130801\\\\f315d654-4e27-4812-b4cc-287edf9bac1
+Action.c(33):     9.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:21 133","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9899\\download\\20130801\\f315d654-4e27-4812-b4cc-287edf9bac19.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = f315d654-4e27-4812-b4cc-287edf9bac19.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7370 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9899\\download\\20130801\\f315d654-4e27-4812-b4cc-287edf9bac19.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9899\\download\\20130801\\f315d654-4e27-4812-b4cc-287edf9bac19.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "f315d654-4e27-4812-b4cc-287edf9bac19.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber f315d654-4e27-4812-b4cc-287edf9bac19.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31388ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31389ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9935\\\\download\\\\20130801\\\\187b89c0-72e2-4743-9af1-83327de9ad0
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:13 649","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9935\\download\\20130801\\187b89c0-72e2-4743-9af1-83327de9ad07.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 187b89c0-72e2-4743-9af1-83327de9ad07.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7363 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9935\\download\\20130801\\187b89c0-72e2-4743-9af1-83327de9ad07.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9935\\download\\20130801\\187b89c0-72e2-4743-9af1-83327de9ad07.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "187b89c0-72e2-4743-9af1-83327de9ad07.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 187b89c0-72e2-4743-9af1-83327de9ad07.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31403ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31404ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9915\\\\download\\\\20130801\\\\da385265-1902-45a3-b60c-20f8541f116
+Action.c(33):     2.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:44 618","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9915\\download\\20130801\\da385265-1902-45a3-b60c-20f8541f1162.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = da385265-1902-45a3-b60c-20f8541f1162.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.7719 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9915\\download\\20130801\\da385265-1902-45a3-b60c-20f8541f1162.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9915\\download\\20130801\\da385265-1902-45a3-b60c-20f8541f1162.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "da385265-1902-45a3-b60c-20f8541f1162.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber da385265-1902-45a3-b60c-20f8541f1162.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31560ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31560ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9941\\\\download\\\\20130801\\\\ab2150d7-5c59-4dfa-8baf-474a4eef454
+Action.c(33):     c.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:22 258","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9941\\download\\20130801\\ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9249 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9941\\download\\20130801\\ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9941\\download\\20130801\\ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber ab2150d7-5c59-4dfa-8baf-474a4eef454c.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31575ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31576ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9909\\\\download\\\\20130801\\\\dd1d638e-0102-420c-9f02-47d6d8a65c4
+Action.c(33):     b.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:35 836","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9909\\download\\20130801\\dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.8862 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9909\\download\\20130801\\dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9909\\download\\20130801\\dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber dd1d638e-0102-420c-9f02-47d6d8a65c4b.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31576ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31577ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9929\\\\download\\\\20130801\\\\0b164cc0-a9a8-4d09-824c-b0c1095498a
+Action.c(33):     a.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:05 102","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9929\\download\\20130801\\0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9568 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9929\\download\\20130801\\0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9929\\download\\20130801\\0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 0b164cc0-a9a8-4d09-824c-b0c1095498aa.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31591ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31591ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9945\\\\download\\\\20130801\\\\da9d523a-68f2-4a33-935d-9437c899010
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:28 164","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9945\\download\\20130801\\da9d523a-68f2-4a33-935d-9437c8990107.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = da9d523a-68f2-4a33-935d-9437c8990107.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9550 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9945\\download\\20130801\\da9d523a-68f2-4a33-935d-9437c8990107.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9945\\download\\20130801\\da9d523a-68f2-4a33-935d-9437c8990107.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "da9d523a-68f2-4a33-935d-9437c8990107.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber da9d523a-68f2-4a33-935d-9437c8990107.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(33): t=31598ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31598ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9923\\\\download\\\\20130801\\\\64a4c9f9-a679-44c8-84dd-f1ffdebd6e3
+Action.c(33):     b.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:56 321","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9923\\download\\20130801\\64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9626 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9923\\download\\20130801\\64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9923\\download\\20130801\\64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 64a4c9f9-a679-44c8-84dd-f1ffdebd6e3b.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31607ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33): t=31607ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31607ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9903\\\\download\\\\20130801\\\\68d8491c-4081-4bfb-b5ce-5dfea95c3ba
+Action.c(33):     a.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:27 055","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9903\\download\\20130801\\68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9753 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9903\\download\\20130801\\68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf"	[MsgId: MMSG-13992]
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31608ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9911\\\\download\\\\20130801\\\\47d6026c-1bc9-4cb2-961b-04a895d822c
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:38 805","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9911\\download\\20130801\\47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9725 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9911\\download\\20130801\\47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9911\\download\\20130801\\47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 47d6026c-1bc9-4cb2-961b-04a895d822c7.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(55): This is the first flightnumber 58\\9903\\download\\20130801\\68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 68d8491c-4081-4bfb-b5ce-5dfea95c3baa.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31622ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33): t=31622ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     \r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33): t=31623ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     \r\n
+Action.c(33):     {"DownloadFile":"58\\\\9916\\\\download\\\\20130801\\\\d3e7facb-17c7-47b3-bbb7-305c17b167d
+Action.c(33): t=31623ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:46 024","Message":null,"Re
+Action.c(33):     {"DownloadFile":"58\\\\9937\\\\download\\\\20130801\\\\7d2f314d-e321-46da-847a-a39620a1a76
+Action.c(33):     sultCode":0}
+Action.c(33):     9.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:16 477","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9916\\download\\20130801\\d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9937\\download\\20130801\\7d2f314d-e321-46da-847a-a39620a1a769.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 7d2f314d-e321-46da-847a-a39620a1a769.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9830 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9877 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9916\\download\\20130801\\d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9937\\download\\20130801\\7d2f314d-e321-46da-847a-a39620a1a769.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9916\\download\\20130801\\d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf	[MsgId: MMSG-17999]
+Action.c(55): This is the first flightnumber 58\\9937\\download\\20130801\\7d2f314d-e321-46da-847a-a39620a1a769.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "7d2f314d-e321-46da-847a-a39620a1a769.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 7d2f314d-e321-46da-847a-a39620a1a769.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf"	[MsgId: MMSG-13992]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(56): This is the first flightnumber d3e7facb-17c7-47b3-bbb7-305c17b167d7.jitdf	[MsgId: MMSG-17999]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31623ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33): t=31623ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     \r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33): t=31624ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     \r\n
+Action.c(33):     {"DownloadFile":"58\\\\9913\\\\download\\\\20130801\\\\f377ad27-018b-4a15-a49a-61db4def29f
+Action.c(33): t=31624ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     a.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:41 743","Message":null,"Re
+Action.c(33):     {"DownloadFile":"58\\\\9933\\\\download\\\\20130801\\\\61b755fa-641e-4a91-906d-8fc21eba3ee
+Action.c(33):     sultCode":0}
+Action.c(33):     0.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:10 868","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9913\\download\\20130801\\f377ad27-018b-4a15-a49a-61db4def29fa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9933\\download\\20130801\\61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): Notify: Saving Parameter "FileName = f377ad27-018b-4a15-a49a-61db4def29fa.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9887 Wasted Time: 0.0005).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9913\\download\\20130801\\f377ad27-018b-4a15-a49a-61db4def29fa.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9913\\download\\20130801\\f377ad27-018b-4a15-a49a-61db4def29fa.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "f377ad27-018b-4a15-a49a-61db4def29fa.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber f377ad27-018b-4a15-a49a-61db4def29fa.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9879 Wasted Time: 0.0002).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9933\\download\\20130801\\61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9933\\download\\20130801\\61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 61b755fa-641e-4a91-906d-8fc21eba3ee0.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31638ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31638ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9917\\\\download\\\\20130801\\\\f5136eb9-12f8-4f5c-83dc-75410c09371
+Action.c(33):     5.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:47 571","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9917\\download\\20130801\\f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0024 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9917\\download\\20130801\\f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9917\\download\\20130801\\f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf	[MsgId: MMSG-17999]
+Action.c(33): t=31639ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31639ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9944\\\\download\\\\20130801\\\\097e9a2b-24c6-46fa-b8fc-3cea87d3611
+Action.c(33):     8.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:26 680","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9944\\download\\20130801\\097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0161 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9944\\download\\20130801\\097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9944\\download\\20130801\\097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 097e9a2b-24c6-46fa-b8fc-3cea87d36118.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31640ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31640ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9930\\\\download\\\\20130801\\\\2ba90a8d-5cd9-4008-b152-3f285db38cc
+Action.c(33):     b.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:06 524","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9930\\download\\20130801\\2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0175 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9930\\download\\20130801\\2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9930\\download\\20130801\\2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 2ba90a8d-5cd9-4008-b152-3f285db38ccb.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31643ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31643ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9907\\\\download\\\\20130801\\\\1a380e1d-6caf-49da-84af-4c2b493cf2e
+Action.c(33):     4.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:32 961","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9907\\download\\20130801\\1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0074 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9907\\download\\20130801\\1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9907\\download\\20130801\\1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 1a380e1d-6caf-49da-84af-4c2b493cf2e4.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber f5136eb9-12f8-4f5c-83dc-75410c093715.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31653ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31653ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     \r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31654ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31654ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9906\\\\download\\\\20130801\\\\f53f4a68-fe0b-403e-9385-06babcdd09a
+Action.c(33):     {"DownloadFile":"58\\\\9918\\\\download\\\\20130801\\\\1b63c0e6-4892-4d0e-83fd-d9675e6c654
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:31 571","Message":null,"Re
+Action.c(33):     f.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:49 118","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9906\\download\\20130801\\f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9918\\download\\20130801\\1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0146 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0304 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9918\\download\\20130801\\1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9906\\download\\20130801\\f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9918\\download\\20130801\\1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf	[MsgId: MMSG-17999]
+Action.c(55): This is the first flightnumber 58\\9906\\download\\20130801\\f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 1b63c0e6-4892-4d0e-83fd-d9675e6c654f.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf"	[MsgId: MMSG-13992]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(56): This is the first flightnumber f53f4a68-fe0b-403e-9385-06babcdd09ad.jitdf	[MsgId: MMSG-17999]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31655ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31655ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9905\\\\download\\\\20130801\\\\6e1ab705-7aac-46bf-9f6d-9ce7ac2466b
+Action.c(33):     5.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:30 086","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9905\\download\\20130801\\6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0186 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9905\\download\\20130801\\6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9905\\download\\20130801\\6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 6e1ab705-7aac-46bf-9f6d-9ce7ac2466b5.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31656ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31656ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9919\\\\download\\\\20130801\\\\64812f96-b53d-4a2b-a5f8-32c8beee6c3
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:50 493","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9919\\download\\20130801\\64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0201 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9919\\download\\20130801\\64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9919\\download\\20130801\\64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 64812f96-b53d-4a2b-a5f8-32c8beee6c37.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31669ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31669ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33): t=31669ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31669ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     \r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31669ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9927\\\\download\\\\20130801\\\\384fbdc2-b30e-4b9e-afca-7c55864bf36
+Action.c(33): t=31669ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     9.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:02 243","Message":null,"Re
+Action.c(33):     {"DownloadFile":"58\\\\9939\\\\download\\\\20130801\\\\16015327-c87c-421e-8c7d-aef5985df53
+Action.c(33):     sultCode":0}
+Action.c(33):     3.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:19 430","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9927\\download\\20130801\\384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9939\\download\\20130801\\16015327-c87c-421e-8c7d-aef5985df533.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf".	[MsgId: MMSG-13798]
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33): Notify: Saving Parameter "FileName = 16015327-c87c-421e-8c7d-aef5985df533.jitdf".	[MsgId: MMSG-13798]
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9799 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9797 Wasted Time: 0.0002).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9927\\download\\20130801\\384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9939\\download\\20130801\\16015327-c87c-421e-8c7d-aef5985df533.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9927\\download\\20130801\\384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf	[MsgId: MMSG-17999]
+Action.c(55): This is the first flightnumber 58\\9939\\download\\20130801\\16015327-c87c-421e-8c7d-aef5985df533.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 384fbdc2-b30e-4b9e-afca-7c55864bf369.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "16015327-c87c-421e-8c7d-aef5985df533.jitdf"	[MsgId: MMSG-13992]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(56): This is the first flightnumber 16015327-c87c-421e-8c7d-aef5985df533.jitdf	[MsgId: MMSG-17999]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33):     \r\n
+Action.c(33): t=31671ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9947\\\\download\\\\20130801\\\\1f46b21d-b961-484b-a4ac-607d5ad263d
+Action.c(33):     3.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:31 243","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9947\\download\\20130801\\1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9806 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9947\\download\\20130801\\1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9947\\download\\20130801\\1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 1f46b21d-b961-484b-a4ac-607d5ad263d3.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31671ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9943\\\\download\\\\20130801\\\\5e3c1670-8dc9-4344-a2f4-216f5d5f912
+Action.c(33):     a.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:25 258","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9943\\download\\20130801\\5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9817 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9943\\download\\20130801\\5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9943\\download\\20130801\\5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 5e3c1670-8dc9-4344-a2f4-216f5d5f912a.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31685ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31685ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31685ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31686ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9942\\\\download\\\\20130801\\\\e2f5eb3b-4d28-4546-9eef-5045f297bfd
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:23 758","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9942\\download\\20130801\\e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0466 Wasted Time: 0.0002).	[MsgId: MMSG-16871]
+Action.c(33): t=31686ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9942\\download\\20130801\\e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf"	[MsgId: MMSG-13992]
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(55): This is the first flightnumber 58\\9942\\download\\20130801\\e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf	[MsgId: MMSG-17999]
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     {"DownloadFile":"58\\\\9910\\\\download\\\\20130801\\\\b9815d03-d662-4063-a373-d1697d9bae2
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:37 383","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9910\\download\\20130801\\b9815d03-d662-4063-a373-d1697d9bae2d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = b9815d03-d662-4063-a373-d1697d9bae2d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0462 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9910\\download\\20130801\\b9815d03-d662-4063-a373-d1697d9bae2d.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9910\\download\\20130801\\b9815d03-d662-4063-a373-d1697d9bae2d.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "b9815d03-d662-4063-a373-d1697d9bae2d.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber b9815d03-d662-4063-a373-d1697d9bae2d.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber e2f5eb3b-4d28-4546-9eef-5045f297bfdd.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31688ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9921\\\\download\\\\20130801\\\\e977138d-e611-4738-88ef-70c66c6fccc
+Action.c(33):     4.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:53 446","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9921\\download\\20130801\\e977138d-e611-4738-88ef-70c66c6fccc4.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = e977138d-e611-4738-88ef-70c66c6fccc4.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 23.9982 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9921\\download\\20130801\\e977138d-e611-4738-88ef-70c66c6fccc4.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9921\\download\\20130801\\e977138d-e611-4738-88ef-70c66c6fccc4.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "e977138d-e611-4738-88ef-70c66c6fccc4.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber e977138d-e611-4738-88ef-70c66c6fccc4.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31700ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31701ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9925\\\\download\\\\20130801\\\\44e0299b-8828-4296-845c-612612bda01
+Action.c(33):     d.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:59 461","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9925\\download\\20130801\\44e0299b-8828-4296-845c-612612bda01d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 44e0299b-8828-4296-845c-612612bda01d.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): t=31701ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31701ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9902\\\\download\\\\20130801\\\\50b06dbd-e53f-4922-9459-ae5b8346ca9
+Action.c(33):     9.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:25 618","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9902\\download\\20130801\\50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0615 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9902\\download\\20130801\\50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9902\\download\\20130801\\50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 50b06dbd-e53f-4922-9459-ae5b8346ca99.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0127 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9925\\download\\20130801\\44e0299b-8828-4296-845c-612612bda01d.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9925\\download\\20130801\\44e0299b-8828-4296-845c-612612bda01d.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "44e0299b-8828-4296-845c-612612bda01d.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 44e0299b-8828-4296-845c-612612bda01d.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31716ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31716ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31716ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31716ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     {"DownloadFile":"58\\\\9936\\\\download\\\\20130801\\\\6b5049f7-c919-4e6b-a425-e16de5ed853
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     1.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:15 086","Message":null,"Re
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     sultCode":0}
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9936\\download\\20130801\\6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf".	[MsgId: MMSG-13798]
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): Notify: Saving Parameter "FileName = 6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): t=31716ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9901\\\\download\\\\20130801\\\\4c9f3b01-412b-4922-980e-26835d2bbac
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33):     e.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:24 039","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.1228 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9901\\download\\20130801\\4c9f3b01-412b-4922-980e-26835d2bbace.jitdf".	[MsgId: MMSG-13798]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9936\\download\\20130801\\6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Saving Parameter "FileName = 4c9f3b01-412b-4922-980e-26835d2bbace.jitdf".	[MsgId: MMSG-13798]
+Action.c(55): This is the first flightnumber 58\\9936\\download\\20130801\\6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf	[MsgId: MMSG-17999]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33):     \r\n
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf"	[MsgId: MMSG-13992]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.1591 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(33): t=31717ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9901\\download\\20130801\\4c9f3b01-412b-4922-980e-26835d2bbace.jitdf"	[MsgId: MMSG-13992]
+Action.c(33):     {"DownloadFile":"58\\\\9908\\\\download\\\\20130801\\\\4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac
+Action.c(55): This is the first flightnumber 58\\9901\\download\\20130801\\4c9f3b01-412b-4922-980e-26835d2bbace.jitdf	[MsgId: MMSG-17999]
+Action.c(33):     5.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:34 352","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9908\\download\\20130801\\4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf".	[MsgId: MMSG-13798]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "4c9f3b01-412b-4922-980e-26835d2bbace.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 4c9f3b01-412b-4922-980e-26835d2bbace.jitdf	[MsgId: MMSG-17999]
+Action.c(33): Notify: Saving Parameter "FileName = 4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf".	[MsgId: MMSG-13798]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0554 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9908\\download\\20130801\\4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 6b5049f7-c919-4e6b-a425-e16de5ed8531.jitdf	[MsgId: MMSG-17999]
+Action.c(55): This is the first flightnumber 58\\9908\\download\\20130801\\4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 4bf5e58d-dc06-4f29-b8b7-b3a4a2455ac5.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31718ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31718ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9946\\\\download\\\\20130801\\\\e6be7348-9a98-40f7-ace4-672b853c30b
+Action.c(33):     7.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:29 633","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9946\\download\\20130801\\e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0944 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9946\\download\\20130801\\e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9946\\download\\20130801\\e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber e6be7348-9a98-40f7-ace4-672b853c30b7.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31732ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31732ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9914\\\\download\\\\20130801\\\\6c1f02c3-05e7-4290-b6ae-64e4f21141b
+Action.c(33):     3.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:43 211","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9914\\download\\20130801\\6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0423 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9914\\download\\20130801\\6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9914\\download\\20130801\\6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 6c1f02c3-05e7-4290-b6ae-64e4f21141b3.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31734ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31737ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9920\\\\download\\\\20130801\\\\be1439d3-2bed-406e-a293-1bbf2bb39d3
+Action.c(33):     2.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:51 946","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9920\\download\\20130801\\be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0479 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9920\\download\\20130801\\be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9920\\download\\20130801\\be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber be1439d3-2bed-406e-a293-1bbf2bb39d32.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31747ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31747ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33): t=31747ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9940\\\\download\\\\20130801\\\\95add7d3-98d3-47a1-8dab-e435c75c7b8
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     2.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:20 852","Message":null,"Re
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     sultCode":0}
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9940\\download\\20130801\\95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf".	[MsgId: MMSG-13798]
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33): Notify: Saving Parameter "FileName = 95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf".	[MsgId: MMSG-13798]
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(33): t=31748ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9938\\\\download\\\\20130801\\\\0f934029-f53d-4129-9998-86905793a82
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.1074 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(33):     3.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:17 930","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9940\\download\\20130801\\95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf"	[MsgId: MMSG-13992]
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9938\\download\\20130801\\0f934029-f53d-4129-9998-86905793a823.jitdf".	[MsgId: MMSG-13798]
+Action.c(55): This is the first flightnumber 58\\9940\\download\\20130801\\95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf	[MsgId: MMSG-17999]
+Action.c(33): Notify: Saving Parameter "FileName = 0f934029-f53d-4129-9998-86905793a823.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0878 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 95add7d3-98d3-47a1-8dab-e435c75c7b82.jitdf	[MsgId: MMSG-17999]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9938\\download\\20130801\\0f934029-f53d-4129-9998-86905793a823.jitdf"	[MsgId: MMSG-13992]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(55): This is the first flightnumber 58\\9938\\download\\20130801\\0f934029-f53d-4129-9998-86905793a823.jitdf	[MsgId: MMSG-17999]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "0f934029-f53d-4129-9998-86905793a823.jitdf"	[MsgId: MMSG-13992]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(56): This is the first flightnumber 0f934029-f53d-4129-9998-86905793a823.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=31763ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31763ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9932\\\\download\\\\20130801\\\\73401bc7-44e9-4e98-953f-ef68c1ec0c1
+Action.c(33):     e.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:09 446","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9932\\download\\20130801\\73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = 73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): t=31763ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:53 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=31764ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9931\\\\download\\\\20130801\\\\b283b316-4e9c-4620-99a4-f2150d746bf
+Action.c(33):     f.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:07 977","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9931\\download\\20130801\\b283b316-4e9c-4620-99a4-f2150d746bff.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = b283b316-4e9c-4620-99a4-f2150d746bff.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.1021 Wasted Time: 0.0006).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9932\\download\\20130801\\73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9932\\download\\20130801\\73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber 73401bc7-44e9-4e98-953f-ef68c1ec0c1e.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 24.0751 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9931\\download\\20130801\\b283b316-4e9c-4620-99a4-f2150d746bff.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9931\\download\\20130801\\b283b316-4e9c-4620-99a4-f2150d746bff.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "b283b316-4e9c-4620-99a4-f2150d746bff.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber b283b316-4e9c-4620-99a4-f2150d746bff.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=34731ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:57 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=34732ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9934\\\\download\\\\20130801\\\\b2638761-366e-4348-84ee-562d1b8dd2d
+Action.c(33):     e.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:39:12 227","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9934\\download\\20130801\\b2638761-366e-4348-84ee-562d1b8dd2de.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = b2638761-366e-4348-84ee-562d1b8dd2de.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 27.1382 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9934\\download\\20130801\\b2638761-366e-4348-84ee-562d1b8dd2de.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9934\\download\\20130801\\b2638761-366e-4348-84ee-562d1b8dd2de.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "b2638761-366e-4348-84ee-562d1b8dd2de.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber b2638761-366e-4348-84ee-562d1b8dd2de.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=34763ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:57 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=34763ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9900\\\\download\\\\20130801\\\\d11da7d7-13c0-40b8-82ed-6c8c69f3a73
+Action.c(33):     a.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:22 524","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9900\\download\\20130801\\d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 27.1024 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9900\\download\\20130801\\d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9900\\download\\20130801\\d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber d11da7d7-13c0-40b8-82ed-6c8c69f3a73a.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Action.c(33): t=35436ms: 174-byte response headers for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     HTTP/1.1 200 OK\r\n
+Action.c(33):     Content-Length: 184\r\n
+Action.c(33):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(33):     Server: Microsoft-IIS/7.5\r\n
+Action.c(33):     X-Powered-By: ASP.NET\r\n
+Action.c(33):     Date: Thu, 01 Aug 2013 15:06:57 GMT\r\n
+Action.c(33):     \r\n
+Action.c(33): t=35436ms: 184-byte response body for "http://112.124.9.72:3005/Impls/TableModeDataSync.svc/ProcessRequest" (RelFrameId=1, Internal ID=1)
+Action.c(33):     {"DownloadFile":"58\\\\9898\\\\download\\\\20130801\\\\d9bc9779-1e27-4d9d-95df-b6e66fafdeb
+Action.c(33):     8.jitdf","FailFileName":null,"LastUpdateTime":"2013-08-01 00:38:19 633","Message":null,"Re
+Action.c(33):     sultCode":0}
+Action.c(33): Notify: Saving Parameter "WcfResponse = 58\\9898\\download\\20130801\\d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): Notify: Saving Parameter "FileName = d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf".	[MsgId: MMSG-13798]
+Action.c(33): web_custom_request("ListThemes") was successful, 184 body bytes, 174 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "WCF调用" ended with "Pass" status (Duration: 27.7745 Wasted Time: 0.0001).	[MsgId: MMSG-16871]
+Action.c(55): Notify: Parameter Substitution: parameter "WcfResponse" =  "58\\9898\\download\\20130801\\d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf"	[MsgId: MMSG-13992]
+Action.c(55): This is the first flightnumber 58\\9898\\download\\20130801\\d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf	[MsgId: MMSG-17999]
+Action.c(56): Notify: Parameter Substitution: parameter "FileName" =  "d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf"	[MsgId: MMSG-13992]
+Action.c(56): This is the first flightnumber d9bc9779-1e27-4d9d-95df-b6e66fafdeb8.jitdf	[MsgId: MMSG-17999]
+Action.c(59): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(61): OK!!	[MsgId: MMSG-17999]
+Action.c(69): Rendezvous FTP下载	[MsgId: MMSG-17988]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 32 (thread 4620), ended OK."	[MsgId: MMSG-10695]
+Vuser 10 (thread 6040), ended OK."	[MsgId: MMSG-10695]
+Vuser 21 (thread 6052), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 43 (thread 1116), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Ending Vuser...	[MsgId: MMSG-15966]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 11 (thread 2264), ended OK."	[MsgId: MMSG-10695]
+Vuser 44 (thread 2980), ended OK."	[MsgId: MMSG-10695]
+Vuser 22 (thread 5164), ended OK."	[MsgId: MMSG-10695]
+Vuser 0 (thread 5348), ended OK."	[MsgId: MMSG-10695]
+Vuser 33 (thread 5676), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 34 (thread 5304), ended OK."	[MsgId: MMSG-10695]
+Vuser 2 (thread 4880), ended OK."	[MsgId: MMSG-10695]
+Vuser 1 (thread 1212), ended OK."	[MsgId: MMSG-10695]
+Vuser 46 (thread 4660), ended OK."	[MsgId: MMSG-10695]
+Vuser 23 (thread 1108), ended OK."	[MsgId: MMSG-10695]
+Vuser 12 (thread 5440), ended OK."	[MsgId: MMSG-10695]
+Vuser 3 (thread 4024), ended OK."	[MsgId: MMSG-10695]
+Vuser 35 (thread 4648), ended OK."	[MsgId: MMSG-10695]
+Vuser 14 (thread 1312), ended OK."	[MsgId: MMSG-10695]
+Vuser 24 (thread 4996), ended OK."	[MsgId: MMSG-10695]
+Vuser 25 (thread 1300), ended OK."	[MsgId: MMSG-10695]
+Vuser 36 (thread 188), ended OK."	[MsgId: MMSG-10695]
+Vuser 47 (thread 3516), ended OK."	[MsgId: MMSG-10695]
+Vuser 45 (thread 5716), ended OK."	[MsgId: MMSG-10695]
+Vuser 13 (thread 3728), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 5 (thread 3740), ended OK."	[MsgId: MMSG-10695]
+Vuser 8 (thread 3500), ended OK."	[MsgId: MMSG-10695]
+Vuser 26 (thread 5044), ended OK."	[MsgId: MMSG-10695]
+Vuser 16 (thread 3980), ended OK."	[MsgId: MMSG-10695]
+Vuser 4 (thread 764), ended OK."	[MsgId: MMSG-10695]
+Vuser 48 (thread 4664), ended OK."	[MsgId: MMSG-10695]
+Vuser 38 (thread 5532), ended OK."	[MsgId: MMSG-10695]
+Vuser 37 (thread 4192), ended OK."	[MsgId: MMSG-10695]
+Vuser 7 (thread 3000), ended OK."	[MsgId: MMSG-10695]
+Vuser 27 (thread 4256), ended OK."	[MsgId: MMSG-10695]
+Vuser 6 (thread 3264), ended OK."	[MsgId: MMSG-10695]
+Vuser 28 (thread 5308), ended OK."	[MsgId: MMSG-10695]
+Vuser 18 (thread 5724), ended OK."	[MsgId: MMSG-10695]
+Vuser 15 (thread 5844), ended OK."	[MsgId: MMSG-10695]
+Vuser 17 (thread 1992), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 40 (thread 2780), ended OK."	[MsgId: MMSG-10695]
+Vuser 39 (thread 4916), ended OK."	[MsgId: MMSG-10695]
+Vuser 30 (thread 4580), ended OK."	[MsgId: MMSG-10695]
+Vuser 29 (thread 2152), ended OK."	[MsgId: MMSG-10695]
+Vuser 49 (thread 4344), ended OK."	[MsgId: MMSG-10695]
+Vuser 41 (thread 6056), ended OK."	[MsgId: MMSG-10695]
+Vuser 19 (thread 3560), ended OK."	[MsgId: MMSG-10695]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 31 (thread 5944), ended OK."	[MsgId: MMSG-10695]
+Vuser 20 (thread 4148), ended OK."	[MsgId: MMSG-10695]
+Vuser 42 (thread 2464), ended OK."	[MsgId: MMSG-10695]
+Vuser 9 (thread 3444), ended OK."	[MsgId: MMSG-10695]

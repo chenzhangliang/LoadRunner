@@ -1,0 +1,9 @@
+GET /js/jquery-1.4.1.min.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://map.jitmarketing.cn:8083/default.aspx
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip, deflate
+Host: map.jitmarketing.cn:8083
+Connection: Keep-Alive
+

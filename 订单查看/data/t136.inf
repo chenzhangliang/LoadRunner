@@ -1,0 +1,13 @@
+[t136]
+FileName1=t136.htm
+URL1=http://180.153.154.42/Module/Order/Order/Handler/OrderHandler.ashx?mid=b164bcd6-256b-4f05-bde6-4fc41fa7a054&btncode=search&_dc=1373208050694
+Total=1
+RequestHeaderFile=t136_RequestHeader.txt
+RequestBodyFile=t136_RequestBody.txt
+ResponseHeaderFile=t136_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_136.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

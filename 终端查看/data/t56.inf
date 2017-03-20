@@ -1,0 +1,13 @@
+[t56]
+FileName1=t56_CommonMethod.html
+URL1=http://map.jitmarketing.cn:8083/js/CommonMethod.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_56.xml
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

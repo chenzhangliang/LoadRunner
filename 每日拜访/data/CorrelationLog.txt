@@ -1,0 +1,915 @@
+Debug Message:
+	Correlation engine instance created; using configuration Default
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	TaskID=3  URL=http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/basic.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/jquery-1.4.2.min.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/css/validate.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/common.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/btn-login.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/validate.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/css/theme.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/ad.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/other/validate/validate.var.cn.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/index-main-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/login-bg.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/username-bg1.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/username-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/image/password-bg.jpg
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx?method=UserLogin&r=0.6975266362710282
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	TaskID=37  URL=http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/Resources/css/ext-all-gray.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/reset.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/webcontrol.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/javascript/Other/menu.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Css/jit-all.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/ext-all.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/locale/ext-lang-zh_CN.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/CommonMethod.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Button.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/CommonValidate.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Utility/JITPage.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/pub/JTIPagePannel.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Unit.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Warehouse.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/logo.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/javascript/Other/jquery-1.9.0.min.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Jit/jit-all-dev.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/css/style.css
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/title.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/header.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/shadow1.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/framework/image/title2.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	TaskID=66  URL=http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/css/style.css
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon7.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon8.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon9.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon10.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/jquery-1.4.1.min.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/thickbox-compressed.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/default.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/DataList.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/EXTJS/ext-all.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon4.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/EXTJS/resources/css/ext-all.css
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon3.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/CommonMethod.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon5.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/EXTJS/locale/ext-lang-zh_CN.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/css/thickbox.css
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon6.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	TaskID=103  URL=http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon2.jpg
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/icon10.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/images/loadingAnimation.gif
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/js/MapInclude.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/swfobject.js
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://wwwimages.adobe.com/www.adobe.com/images/shared/download_buttons/get_flash_player.gif
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/config.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_close.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/WidgetContainer/WidgetContainerWidget.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/i_pushpin.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_link.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:8080/crossdomain.xml
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer?f=json
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:7080/crossdomain.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/FlexJS/ProductWidget.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_up.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_collapse.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_collapse_down.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_down.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_right.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:7080/PBS/rest/services/GaoDeDiTuRoad/MapServer?f=json
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/w_left.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/NavigationJS/NavigationWidget.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/FlexJS/ProductWidget.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=returnkpi&strKPI=1031&strType=1&idType=&ids=
+
+Debug Message:
+	Rules could not be applied to type=returnkpi&strKPI=1031&strType=1&idType=&ids=
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.html
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=savedata
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=savedata
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=savedata
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentityfields&r=0.9970206429432946
+
+Debug Message:
+	Rules could not be applied to type=loadentityfields&r=0.9970206429432946
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/LegendJS/LegendWidget.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.14220011612544153
+
+Debug Message:
+	Rules could not be applied to type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.14220011612544153
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentitylist&_dc=1373279614087&limit=15&page=1&start=0
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentityfields&r=0.259488835280029
+
+Debug Message:
+	Rules could not be applied to type=loadentityfields&r=0.259488835280029
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.025310581430362744
+
+Debug Message:
+	Rules could not be applied to type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.025310581430362744
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentitylist&_dc=1373279614187&limit=15&page=1&start=0
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentityfields&r=0.16331421358029435
+
+Debug Message:
+	Rules could not be applied to type=loadentityfields&r=0.16331421358029435
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.7783967705346357
+
+Debug Message:
+	Rules could not be applied to type=loadgridcloumn&kpiid=1031&kpitype=1&r=0.7783967705346357
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/web/ServiceHandler.ashx?type=loadentitylist&_dc=1373279614230&limit=15&page=1&start=0
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/default.aspx
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/ExportMapJS/exportMap.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?layers=show%3A1%2C2%2C3&bboxSR=3857&f=image&imageSR=3857&bbox=5558036%2E8314934485%2C1356014%2E9252341609%2C17494443%2E168506548%2C7813415%2E074765839&dpi=96&size=1220%2C660&format=png8&transparent=true
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/LegendJS/LegendWidget.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/NavigationJS/NavigationWidget.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_globe.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_pan.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_zoomin.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_zoomout.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?layers=show%3A1%2C2%2C3&bboxSR=3857&f=image&imageSR=3857&bbox=5638274%2E610527635%2C1343520%2E181070547%2C17574680%2E947540734%2C7800920%2E330602225&dpi=96&size=1220%2C660&format=png8&transparent=true
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/widgets/jit/product/ExportMapJS/exportMap.xml
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/assets/images/jit/kpi/navigation/i_exportmap.png
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?layers=show%3A1%2C2%2C3&bboxSR=3857&f=image&imageSR=3857&bbox=5638274%2E610527635%2C1343520%2E181070547%2C17584464%2E887161236%2C7800920%2E330602225&dpi=96&size=1221%2C660&format=png8&transparent=true
+
+Debug Message:
+	Rules could not be applied to http://map.jitmarketing.cn:8083/map/index.swf
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx
+
+Debug Message:
+	TaskID=167  URL=http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/pub/JITStoreGrid.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/ClientPosition.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/pub/JITStoreSelectPannel.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/City.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/pub/JITStoreSearchPannel.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/Province.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/options.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/ClientStructure.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/javascript/Biz/District.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/Model/TaskDataVM.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/Store/TaskDataVMStore.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/View/TaskDataView.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/Controller/TaskDataCtl.js
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Framework/Javascript/Biz/Handler/ClientPositionHandler.ashx?method=GetClientPositionByParentID&IsTree=false&ParentID=&IsClientDistributor=false&IsClientPosition=false&_dc=1373279637472&page=1&start=0&limit=15
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/form/trigger.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/form/exclamation.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Image/button/button.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/column-header-bg.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/grid3-hd-btn.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/toolbar/toolbar-default-bg.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-first-disabled.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/form/text-bg.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/form/date-trigger.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Image/button/buttoncurrent.png
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-last-disabled.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/refresh.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-next-disabled.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/loading.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/form/spinner-small.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-prev-disabled.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/Handler/TaskDataHandler.ashx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd&btncode=search&method=GetTaskDataList&_dc=1373279637975
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-last.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-next.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/column-header-over-bg.gif
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx?method=LogOut
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/Module/VisitingData/Data/TaskData.aspx?mid=2306a333-36f0-4b32-a207-daa5fc3b01bd
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/login.aspx
+
+Debug Message:
+	Rules could not be applied to http://180.153.154.42/default.aspx?method=LogOut
+
+Debug Message:
+	TaskID=205  URL=http://180.153.154.42/login.aspx
+

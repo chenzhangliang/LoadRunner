@@ -1,0 +1,13 @@
+[t62]
+FileName1=t62_swfobject.html
+URL1=http://map.jitmarketing.cn:8083/map/swfobject.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_62.xml
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

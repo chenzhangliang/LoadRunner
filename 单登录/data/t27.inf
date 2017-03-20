@@ -1,0 +1,13 @@
+[t27]
+FileName1=t27_Button.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/Button.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_27.xml
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t27_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

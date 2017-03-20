@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5_validate.css
+URL1=http://180.153.154.42/Framework/Javascript/other/validate/css/validate.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

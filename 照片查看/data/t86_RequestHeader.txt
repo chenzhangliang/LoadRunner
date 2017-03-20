@@ -1,0 +1,14 @@
+POST /web/ServiceHandler.ashx?type=savedata HTTP/1.1
+Referer: http://map.jitmarketing.cn:8083/default.aspx
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Accept: */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Host: map.jitmarketing.cn:8083
+Content-Length: 4492
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: qqmail_alias=zhangliang.chen@jitmarketing.cn
+

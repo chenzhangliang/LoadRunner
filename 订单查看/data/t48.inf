@@ -1,0 +1,13 @@
+[t48]
+FileName1=t48_default.html
+URL1=http://map.jitmarketing.cn:8083/js/default.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_48.xml
+RequestHeaderFile=t48_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t48_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

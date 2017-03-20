@@ -1,0 +1,13 @@
+[t55]
+FileName1=t55_ext-all.html
+URL1=http://map.jitmarketing.cn:8083/js/EXTJS/ext-all.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_55.xml
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t55_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

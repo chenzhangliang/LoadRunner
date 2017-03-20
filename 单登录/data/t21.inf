@@ -1,0 +1,13 @@
+[t21]
+FileName1=t21_reset.css
+URL1=http://180.153.154.42/framework/css/reset.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_21.xml
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

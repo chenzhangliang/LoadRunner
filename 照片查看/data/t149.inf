@@ -1,0 +1,11 @@
+[t149]
+FileName1=t149.htm
+URL1=http://180.153.154.42/Module/VisitingData/photo/Handler/TaskDataPhotoHandler.ashx?mid=36470343-d65d-4883-a4b4-3c7cb7f23668&btncode=search&method=GetVisitingTaskPhoto&r=0.36734992514105136
+Total=1
+RequestHeaderFile=t149_RequestHeader.txt
+RequestBodyFile=t149_RequestBody.txt
+ResponseHeaderFile=t149_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_149.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

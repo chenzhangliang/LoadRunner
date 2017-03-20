@@ -1,0 +1,11 @@
+[t37]
+FileName1=t37_header.gif
+URL1=http://180.153.154.42/framework/image/header.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_37.xml
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

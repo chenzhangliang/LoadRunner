@@ -1,0 +1,13 @@
+[t27]
+FileName1=t27_ext-all.html
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/ext-all.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_27.xml
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t27_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

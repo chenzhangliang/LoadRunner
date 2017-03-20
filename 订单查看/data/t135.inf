@@ -1,0 +1,13 @@
+[t135]
+FileName1=t135_grid3-hd-btn.gif
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/grid3-hd-btn.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_135.xml
+RequestHeaderFile=t135_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t135_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

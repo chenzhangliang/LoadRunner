@@ -1,0 +1,13 @@
+[t81]
+FileName1=t81_w_left.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/w_left.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_81.xml
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t81_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,13 @@
+[t145]
+FileName1=t145_page-next-disabled.gif
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/resources/themes/images/gray/grid/page-next-disabled.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_145.xml
+RequestHeaderFile=t145_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t145_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

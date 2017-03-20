@@ -1,0 +1,169 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 260
+Failed to get information of process Id: 372
+Failed to get information of process Id: 432
+Failed to get information of process Id: 464
+Failed to get information of process Id: 496
+Failed to get information of process Id: 544
+Failed to get information of process Id: 552
+Failed to get information of process Id: 564
+Failed to get information of process Id: 656
+Failed to get information of process Id: 740
+Failed to get information of process Id: 828
+Failed to get information of process Id: 876
+Failed to get information of process Id: 904
+Failed to get information of process Id: 272
+Failed to get information of process Id: 724
+Failed to get information of process Id: 1056
+Failed to get information of process Id: 1184
+Failed to get information of process Id: 1228
+Failed to get information of process Id: 1408
+Failed to get information of process Id: 1448
+Failed to get information of process Id: 1636
+Failed to get information of process Id: 1672
+Failed to get information of process Id: 1852
+Failed to get information of process Id: 1912
+Failed to get information of process Id: 1120
+Failed to get information of process Id: 1380
+Failed to get information of process Id: 1824
+Failed to get information of process Id: 1540
+Failed to get information of process Id: 2076
+PROCESS 0x854       360appcore.exe
+Failed to get information of process Id: 2236
+Failed to get information of process Id: 2328
+Failed to get information of process Id: 2380
+PROCESS 0x9f8       mailassistant.exe
+PROCESS 0xa08       icloudservices.exe
+PROCESS 0xad0       smartaudio.exe
+PROCESS 0xaf4       360tray.exe
+Failed to get information of process Id: 2272
+PROCESS 0x65c       outlook.exe
+PROCESS 0x9f0       ituneshelper.exe
+PROCESS 0xb30       baiduyun.exe
+Failed to get information of process Id: 3280
+Failed to get information of process Id: 3588
+Failed to get information of process Id: 3608
+Failed to get information of process Id: 3668
+Failed to get information of process Id: 3864
+Failed to get information of process Id: 3908
+Failed to get information of process Id: 3928
+Failed to get information of process Id: 3992
+Failed to get information of process Id: 4012
+PROCESS 0x11f4      teamviewer.exe
+Failed to get information of process Id: 5000
+Failed to get information of process Id: 5052
+Failed to get information of process Id: 5076
+Failed to get information of process Id: 3684
+Failed to get information of process Id: 4776
+Failed to get information of process Id: 364
+Failed to get information of process Id: 4968
+Failed to get information of process Id: 3572
+Failed to get information of process Id: 1960
+PROCESS 0x153c      apsdaemon.exe
+Failed to get information of process Id: 4580
+Failed to get information of process Id: 1588
+Failed to get information of process Id: 1776
+Failed to get information of process Id: 5660
+PROCESS 0xf88       notepad++.exe
+Failed to get information of process Id: 1264
+PROCESS 0x870       alipaybsm.exe
+PROCESS 0x17dc      alipaysafetran.exe
+PROCESS 0x144c      iexplore.exe
+PROCESS 0x5c0       yodaodict.exe
+PROCESS 0x17b4      wordbook.exe
+Failed to get information of process Id: 6380
+Failed to get information of process Id: 752
+PROCESS 0x1940      bookmarkdav_client.exe
+PROCESS 0x1a1c      distnoted.exe
+Failed to get information of process Id: 8136
+PROCESS 0x183c      excel.exe
+Failed to get information of process Id: 3388
+PROCESS 0x14f8      yale.exe
+PROCESS 0x1eec      chrome.exe
+PROCESS 0x1b78      chrome.exe
+PROCESS 0x1ee4      chrome.exe
+PROCESS 0x142c      chrome.exe
+PROCESS 0x1834      chrome.exe
+PROCESS 0x1828      chrome.exe
+PROCESS 0x14d4      chrome.exe
+Failed to get information of process Id: 7716
+Failed to get information of process Id: 2308
+PROCESS 0xb90       iexplore.exe
+PROCESS 0x2674      thumbprocess.exe
+Failed to get information of process Id: 4428
+PROCESS 0x226c      lrlauncherapp.exe
+Failed to get information of process Id: 9532
+PROCESS 0x25ec      vugen.exe
+Failed to get information of process Id: 9492
+Failed to get information of process Id: 512
+PROCESS 0xfe8       qqpycloud.exe
+		4.6.2027.400                  D:\MyFiles (x86)\QQPinyin\4.6.2027.400\QQPYCloud.exe
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\ntdll.dll
+		6.1.7601.17965 (win7sp1_gdr.121004-0333)C:\Windows\syswow64\kernel32.dll
+		6.1.7601.17965 (win7sp1_gdr.121004-0333)C:\Windows\syswow64\KERNELBASE.dll
+		9.00.8112.16421 (WIN7_IE9_RTM.110308-0330)C:\Windows\syswow64\WININET.dll
+		7.0.7601.17744 (win7sp1_gdr.111215-1535)C:\Windows\syswow64\msvcrt.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\SHLWAPI.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\GDI32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\USER32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\ADVAPI32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\sechost.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\RPCRT4.dll
+		6.1.7601.17856 (win7sp1_gdr.120601-1505)C:\Windows\syswow64\SspiCli.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\CRYPTBASE.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\LPK.dll
+		1.0626.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\USP10.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\Normaliz.dll
+		9.00.8112.16490 (WIN7_IE9_GDR.130516-1355)C:\Windows\syswow64\iertutil.dll
+		9.00.8112.16421 (WIN7_IE9_RTM.110308-0330)C:\Windows\syswow64\urlmon.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\ole32.dll
+		6.1.7601.17676                C:\Windows\syswow64\OLEAUT32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\WTSAPI32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\SHELL32.dll
+		5.82 (win7_rtm.090713-1255)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\COMCTL32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WS2_32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\NSI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\VERSION.dll
+		6.1.7601.17887 (win7sp1_gdr.120704-0720)C:\Windows\system32\NETAPI32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\netutils.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\srvcli.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\wkscli.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\apphelp.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\AppPatch\AcLayers.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\USERENV.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\profapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINSPOOL.DRV
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\MPR.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\IMM32.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\MSCTF.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\WINSTA.dll
+		1.2.3                         D:\MyFiles (x86)\QQPinyin\4.6.2027.400\zlib1.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\ntmarta.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WLDAP32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\iphlpapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINNSI.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dhcpcsvc.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\uxtheme.dll
+		8, 2, 2, 1420                 C:\Program Files (x86)\360\360safe\safemon\safemon.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\PSAPI.DLL
+		4.6.2027.400                  C:\Windows\system32\QQPINYIN.IME
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\MSIMG32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\dwmapi.dll
+		                              D:\Program Files\Youdao\Dict\5.4.43.3217\WordStrokeHelper32.dll
+		6.1.7601.17856 (win7sp1_gdr.120601-1505)C:\Windows\system32\Secur32.dll
+		6.10 (win7_rtm.090713-1255)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dnsapi.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\RASAPI32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\rasman.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\rtutils.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\sensapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\mswsock.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\wshtcpip.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\NLAapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\napinsp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\pnrpnsp.dll
+		3,0,0,10                      C:\Program Files (x86)\Bonjour\mdnsNSP.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\winrnr.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\fwpuclnt.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\rasadhlp.dll

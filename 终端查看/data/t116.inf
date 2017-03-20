@@ -1,0 +1,13 @@
+[t116]
+FileName1=t116_CheckHeader.css
+URL1=http://180.153.154.42/Lib/Javascript/Ext4.1.0/ux/css/CheckHeader.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_116.xml
+RequestHeaderFile=t116_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t116_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

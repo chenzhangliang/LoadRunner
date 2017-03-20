@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75_ProductWidget.swf
+URL1=http://map.jitmarketing.cn:8083/map/widgets/jit/product/FlexJS/ProductWidget.swf
+Total=1
+ContentType=application/x-shockwave-flash
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

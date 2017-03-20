@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Last-Modified: Fri, 01 Feb 2013 02:17:27 GMT
+Accept-Ranges: bytes
+ETag: "1043448220ce1:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Sun, 07 Jul 2013 14:39:25 GMT
+Content-Length: 793
+

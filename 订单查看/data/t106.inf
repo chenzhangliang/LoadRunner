@@ -1,0 +1,13 @@
+[t106]
+FileName1=t106_LegendWidget.xml
+URL1=http://map.jitmarketing.cn:8083/map/widgets/jit/product/LegendJS/LegendWidget.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_106.xml
+RequestHeaderFile=t106_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t106_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,13 @@
+[t67]
+FileName1=t67_w_link.png
+URL1=http://map.jitmarketing.cn:8083/map/assets/images/w_link.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_67.xml
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

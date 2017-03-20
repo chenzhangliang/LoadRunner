@@ -1,0 +1,11 @@
+[t134]
+FileName1=t134_City.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/City.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_134.xml
+RequestHeaderFile=t134_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t134_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

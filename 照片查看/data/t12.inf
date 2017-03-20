@@ -1,0 +1,13 @@
+[t12]
+FileName1=t12_login-bg.png
+URL1=http://180.153.154.42/Framework/image/login-bg.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_12.xml
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t12_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

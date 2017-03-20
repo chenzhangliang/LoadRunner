@@ -1,0 +1,13 @@
+[t64]
+FileName1=t64_index.swf
+URL1=http://map.jitmarketing.cn:8083/map/index.swf
+Total=1
+ContentType=application/x-shockwave-flash
+SnapshotXmlFile=snapshot_64.xml
+RequestHeaderFile=t64_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t64_ResponseHeader.txt
+[AdditionalInfo]
+IsIgnorable=1
+[ProtocolInfo]
+ProtocolId=QTWeb

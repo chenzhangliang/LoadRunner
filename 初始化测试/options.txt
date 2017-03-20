@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Documents and Settings\Administrator\桌面\阿里云脚本\初始化测试
+-IC:\Program Files\HP\LoadRunner\include
+-ec:\documents and settings\administrator\桌面\阿里云脚本\初始化测试\\logfile.log
+c:\documents and settings\administrator\桌面\阿里云脚本\初始化测试\\combined_初始化测试.c
+c:\documents and settings\administrator\桌面\阿里云脚本\初始化测试\\pre_cci.c

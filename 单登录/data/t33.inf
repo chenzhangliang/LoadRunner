@@ -1,0 +1,13 @@
+[t33]
+FileName1=t33_logo.gif
+URL1=http://180.153.154.42/framework/image/logo.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_33.xml
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

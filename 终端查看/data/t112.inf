@@ -1,0 +1,13 @@
+[t112]
+FileName1=t112_Chain.html
+URL1=http://180.153.154.42/Framework/javascript/Biz/Chain.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_112.xml
+RequestHeaderFile=t112_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t112_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

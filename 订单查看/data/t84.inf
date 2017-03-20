@@ -1,0 +1,13 @@
+[t84]
+FileName1=t84_export.png
+URL1=http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?bbox=5558036%2E8314934485%2C1356014%2E9252341609%2C17494443%2E168506548%2C7813415%2E074765839&f=image&bboxSR=3857&format=png8&imageSR=3857&size=1220%2C660&dpi=96&layers=show%3A1%2C2%2C3&transparent=true
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_84.xml
+RequestHeaderFile=t84_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t84_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1
