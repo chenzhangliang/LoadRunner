@@ -1,0 +1,38 @@
+Action()
+{
+     unsigned long *ftp_session=NULL;
+    
+//      FTP ftp1 = 0;
+
+//      ftp_logon_ex(&ftp1,"FtpLogon",
+//                          "URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+//                     LAST);
+//
+//      ftp_get_ex(&ftp1,"Get_Files",
+//                        "SOURCE_PATH=/1/1/download/20121108/20121108173807427.jitdf",
+//                        "TARGET_PATH=D:\\FTP\\{NewParam}",
+//                        "MODE=BINARY",
+//                        ENDITEM ,
+//                     LAST);
+
+//      ftp_logout_ex(&ftp1);
+//
+     ftp_logon_ex(&ftp_session,"ftp_logon",
+                         "URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+                    LAST);
+
+     ftp_put_ex(&ftp_session, "Ftp_Put",
+                         "SOURCE_PATH=D:\\FTP\\test1.txt",
+                         "TARGET_PATH=\\1\\1\\download\\20121108\\test1.txt",
+                         "MODE=BINARY",
+                         ENDITEM,
+                    LAST);
+
+     //释放FTP连接
+     ftp_logout_ex(&ftp_session);
+
+     //退出登录
+    
+
+     return 0;
+}

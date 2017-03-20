@@ -1,0 +1,16 @@
+ web_reg_save_param("WcfResponse",
+        "LB=\"ResultCode\":",
+        "RB=}",
+        "Ord=1",
+        "RelFrameId=1",
+        "Search=Body",
+        "IgnoreRedirections=Yes",
+    LAST);
+
+//上面有一个变量 WcfResponse
+
+if (atoi(lr_eval_string("{WcfResponse}"))<=99){  atoi将字符串转换成int，具体百度C语言 atoi
+        lr_output_message("成功");
+   }else{
+        lr_output_message("失败");
+   }

@@ -1,0 +1,50 @@
+Action()
+{    
+    //char str1[]="3432432ab32432";
+     char str2[]="Date"; //设置对比的关键字
+
+     web_reg_save_param("WcfResponse",
+     "LB=msg:",
+     "RB=}]",
+     "Ord=1",
+     "RelFrameId=1",
+     "Search=Body",
+     "IgnoreRedirections=Yes",
+    LAST);
+
+
+     web_submit_data("login.aspx",
+          "Action=http://www.qudaoyun.cn/login.aspx?method=UserLogin&r=0.2470999881627718",
+          "Method=POST",
+          "RecContentType=text/html",
+          "Referer=http://www.qudaoyun.cn/",
+          "Snapshot=t2.inf",
+          "Mode=HTML",
+          ITEMDATA,
+          "Name=customer", "Value=金光集团", ENDITEM,
+          "Name=username", "Value=021-580001", ENDITEM,
+          "Name=userpwd", "Value=JIT9762", ENDITEM,
+          LAST);
+
+//      if (lr_eval_string("{WcfResponse}")=="/Module/VisitingData/Data/TaskData.aspx?mid=3f697f86-61c4-4e65-b830-31521451b463") {
+//           lr_output_message("成功11111111111111111");
+//      }else{
+//           lr_output_message("失败222222222222222222");
+//      }
+//
+//           lr_output_message(lr_eval_string("{WcfResponse}"));
+
+
+    //if(str1,str2)) 在字符str1中查找是否有str2
+
+     if(strstr(lr_eval_string("{WcfResponse}"),str2)) {
+          lr_output_message("===================结果中包含设置的关键字===================");
+     }
+        //printf("str2 is in str1!");
+    else  {
+          lr_output_message("****************结果中不不不不包含设置的关键字***************");
+     }
+       // printf("str2 is not in str1!");
+
+     return 0;
+}

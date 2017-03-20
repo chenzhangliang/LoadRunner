@@ -1,0 +1,29 @@
+      Action()
+\\先在D盘根目录创建一个文件夹，名为：“lr_log”
+{
+    char *address="D:\\lr_log\\01.log"; //定义log文件输出的地址和名称
+    long filename;//定义存储文件指针的变量
+    int i;
+    if ((filename=fopen(address,"a+"))==NULL)//打开文件
+    {
+        lr_error_message("can not open this file,address=%s",address);
+        return -1;
+    }
+    for (i=1;i<11;i++)
+    {
+        fprintf(filename,"我的第%d条log...\n",i);
+    }
+    fclose(filename);//关闭文件
+    return 0;
+}
+=======================================================
+脚本回放完毕去D盘lr_log文件夹下打开01.log文件，得到结果：
+我的第1条log...
+我的第2条log...
+我的第3条log...
+我的第4条log...
+我的第5条log...
+我的第6条log...
+我的第7条log...
+我的第8条log...
+我的第9条log...我的第10条log...

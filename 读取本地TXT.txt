@@ -1,0 +1,22 @@
+Action()
+{     
+    int i, total = 0;
+    char line[1000], ch;
+    long file_stream;
+
+    char *filename = "D:\\FTP\\01.txt";
+    if ((file_stream = fopen(filename, "r")) == NULL ) {
+        lr_error_message("Cannot open %s", filename);
+        return -1;
+    }
+
+     do{
+     fgets(line, 1000, file_stream);
+     lr_output_message( "The first line is \"%s\"", line);
+     }while(!feof(file_stream));
+
+
+    if (fclose(file_stream))
+        lr_error_message("Error closing file %s", filename);
+     return 0;
+}
