@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Server110 LNAMP/1.6.2
+Date: Wed, 29 Apr 2015 08:04:30 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 90
+Connection: keep-alive
+X-Powered-By: PHP/5.5.19
+

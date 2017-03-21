@@ -1,0 +1,1100 @@
+Virtual User Script started at : 2015-04-01 16:41:47
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "F:\百度云\中赢金融\好利网\接口测试\通用接口自动化脚本\用户名是否合法及唯一\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13000000001"
+Action.c(26): t=601ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13000000001" (RelFrameId=1, Internal ID=1)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:49 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=623ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13000000001" (RelFrameId=1, Internal ID=1)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13000000001"
+Action.c(37): Notify: Next row for parameter 预期值 = 1 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""} "
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 1.
+Starting iteration 2.
+Notify: Next row for parameter 传入参数 = 2 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '2'.
+Notify: Next row for parameter 预期值 = 2 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '2'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13100000002"
+Action.c(26): t=1021ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13100000002" (RelFrameId=1, Internal ID=2)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:49 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=1043ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13100000002" (RelFrameId=1, Internal ID=2)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13100000002"
+Action.c(37): Notify: Next row for parameter 预期值 = 2 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Notify: Next row for parameter 传入参数 = 3 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '3'.
+Notify: Next row for parameter 预期值 = 3 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '3'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13200000003"
+Action.c(26): t=1335ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13200000003" (RelFrameId=1, Internal ID=3)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:49 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=1367ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13200000003" (RelFrameId=1, Internal ID=3)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13200000003"
+Action.c(37): Notify: Next row for parameter 预期值 = 3 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 3.
+Starting iteration 4.
+Notify: Next row for parameter 传入参数 = 4 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '4'.
+Notify: Next row for parameter 预期值 = 4 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '4'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15500000004"
+Action.c(26): t=1666ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15500000004" (RelFrameId=1, Internal ID=4)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:50 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=1729ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15500000004" (RelFrameId=1, Internal ID=4)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15500000004"
+Action.c(37): Notify: Next row for parameter 预期值 = 4 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 4.
+Starting iteration 5.
+Notify: Next row for parameter 传入参数 = 5 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '5'.
+Notify: Next row for parameter 预期值 = 5 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '5'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15600000005"
+Action.c(26): t=2039ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15600000005" (RelFrameId=1, Internal ID=5)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:50 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2101ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15600000005" (RelFrameId=1, Internal ID=5)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15600000005"
+Action.c(37): Notify: Next row for parameter 预期值 = 5 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 5.
+Starting iteration 6.
+Notify: Next row for parameter 传入参数 = 6 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '6'.
+Notify: Next row for parameter 预期值 = 6 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '6'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18500000006"
+Action.c(26): t=2366ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18500000006" (RelFrameId=1, Internal ID=6)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:50 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2417ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18500000006" (RelFrameId=1, Internal ID=6)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18500000006"
+Action.c(37): Notify: Next row for parameter 预期值 = 6 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 6.
+Starting iteration 7.
+Notify: Next row for parameter 传入参数 = 7 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '7'.
+Notify: Next row for parameter 预期值 = 7 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '7'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18600000007"
+Action.c(26): t=2703ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18600000007" (RelFrameId=1, Internal ID=7)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:51 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=2725ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18600000007" (RelFrameId=1, Internal ID=7)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18600000007"
+Action.c(37): Notify: Next row for parameter 预期值 = 7 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 7.
+Starting iteration 8.
+Notify: Next row for parameter 传入参数 = 8 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '8'.
+Notify: Next row for parameter 预期值 = 8 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '8'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=14500000008"
+Action.c(26): t=3040ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=14500000008" (RelFrameId=1, Internal ID=8)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:51 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=3067ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=14500000008" (RelFrameId=1, Internal ID=8)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=14500000008"
+Action.c(37): Notify: Next row for parameter 预期值 = 8 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 8.
+Starting iteration 9.
+Notify: Next row for parameter 传入参数 = 9 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '9'.
+Notify: Next row for parameter 预期值 = 9 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '9'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=17600000009"
+Action.c(26): t=3331ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=17600000009" (RelFrameId=1, Internal ID=9)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:51 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=3416ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=17600000009" (RelFrameId=1, Internal ID=9)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=17600000009"
+Action.c(37): Notify: Next row for parameter 预期值 = 9 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 9.
+Starting iteration 10.
+Notify: Next row for parameter 传入参数 = 10 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '10'.
+Notify: Next row for parameter 预期值 = 10 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '10'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13400000001"
+Action.c(26): t=3686ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13400000001" (RelFrameId=1, Internal ID=10)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:52 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=3713ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13400000001" (RelFrameId=1, Internal ID=10)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13400000001"
+Action.c(37): Notify: Next row for parameter 预期值 = 10 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 10.
+Starting iteration 11.
+Notify: Next row for parameter 传入参数 = 11 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '11'.
+Notify: Next row for parameter 预期值 = 11 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '11'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13500000002"
+Action.c(26): t=3963ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13500000002" (RelFrameId=1, Internal ID=11)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:52 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=3999ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13500000002" (RelFrameId=1, Internal ID=11)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13500000002"
+Action.c(37): Notify: Next row for parameter 预期值 = 11 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 11.
+Starting iteration 12.
+Notify: Next row for parameter 传入参数 = 12 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '12'.
+Notify: Next row for parameter 预期值 = 12 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '12'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13600000003"
+Action.c(26): t=4289ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13600000003" (RelFrameId=1, Internal ID=12)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:52 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=4327ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13600000003" (RelFrameId=1, Internal ID=12)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13600000003"
+Action.c(37): Notify: Next row for parameter 预期值 = 12 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 12.
+Starting iteration 13.
+Notify: Next row for parameter 传入参数 = 13 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '13'.
+Notify: Next row for parameter 预期值 = 13 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '13'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13700000004"
+Action.c(26): t=4620ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13700000004" (RelFrameId=1, Internal ID=13)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:53 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=4698ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13700000004" (RelFrameId=1, Internal ID=13)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13700000004"
+Action.c(37): Notify: Next row for parameter 预期值 = 13 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 13.
+Starting iteration 14.
+Notify: Next row for parameter 传入参数 = 14 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '14'.
+Notify: Next row for parameter 预期值 = 14 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '14'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13800000005"
+Action.c(26): t=5005ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13800000005" (RelFrameId=1, Internal ID=14)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:53 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=5027ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13800000005" (RelFrameId=1, Internal ID=14)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13800000005"
+Action.c(37): Notify: Next row for parameter 预期值 = 14 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 14.
+Starting iteration 15.
+Notify: Next row for parameter 传入参数 = 15 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '15'.
+Notify: Next row for parameter 预期值 = 15 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '15'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13900000006"
+Action.c(26): t=5286ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13900000006" (RelFrameId=1, Internal ID=15)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:53 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=5333ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13900000006" (RelFrameId=1, Internal ID=15)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13900000006"
+Action.c(37): Notify: Next row for parameter 预期值 = 15 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 15.
+Starting iteration 16.
+Notify: Next row for parameter 传入参数 = 16 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '16'.
+Notify: Next row for parameter 预期值 = 16 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '16'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15000000007"
+Action.c(26): t=5624ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15000000007" (RelFrameId=1, Internal ID=16)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:54 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=5690ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15000000007" (RelFrameId=1, Internal ID=16)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15000000007"
+Action.c(37): Notify: Next row for parameter 预期值 = 16 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 16.
+Starting iteration 17.
+Notify: Next row for parameter 传入参数 = 17 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '17'.
+Notify: Next row for parameter 预期值 = 17 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '17'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15100000008"
+Action.c(26): t=6000ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15100000008" (RelFrameId=1, Internal ID=17)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:54 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6035ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15100000008" (RelFrameId=1, Internal ID=17)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15100000008"
+Action.c(37): Notify: Next row for parameter 预期值 = 17 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 17.
+Starting iteration 18.
+Notify: Next row for parameter 传入参数 = 18 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '18'.
+Notify: Next row for parameter 预期值 = 18 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '18'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15200000009"
+Action.c(26): t=6306ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15200000009" (RelFrameId=1, Internal ID=18)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:54 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6329ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15200000009" (RelFrameId=1, Internal ID=18)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15200000009"
+Action.c(37): Notify: Next row for parameter 预期值 = 18 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 18.
+Starting iteration 19.
+Notify: Next row for parameter 传入参数 = 19 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '19'.
+Notify: Next row for parameter 预期值 = 19 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '19'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15700000010"
+Action.c(26): t=6609ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15700000010" (RelFrameId=1, Internal ID=19)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:55 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=6696ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15700000010" (RelFrameId=1, Internal ID=19)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15700000010"
+Action.c(37): Notify: Next row for parameter 预期值 = 19 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 19.
+Starting iteration 20.
+Notify: Next row for parameter 传入参数 = 20 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '20'.
+Notify: Next row for parameter 预期值 = 20 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '20'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15800000011"
+Action.c(26): t=6971ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15800000011" (RelFrameId=1, Internal ID=20)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:55 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7064ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15800000011" (RelFrameId=1, Internal ID=20)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15800000011"
+Action.c(37): Notify: Next row for parameter 预期值 = 20 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 20.
+Starting iteration 21.
+Notify: Next row for parameter 传入参数 = 21 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '21'.
+Notify: Next row for parameter 预期值 = 21 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '21'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15900000012"
+Action.c(26): t=7344ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15900000012" (RelFrameId=1, Internal ID=21)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:55 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7365ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=15900000012" (RelFrameId=1, Internal ID=21)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=15900000012"
+Action.c(37): Notify: Next row for parameter 预期值 = 21 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 21.
+Starting iteration 22.
+Notify: Next row for parameter 传入参数 = 22 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '22'.
+Notify: Next row for parameter 预期值 = 22 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '22'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18200000013"
+Action.c(26): t=7615ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18200000013" (RelFrameId=1, Internal ID=22)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:56 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=7642ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18200000013" (RelFrameId=1, Internal ID=22)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18200000013"
+Action.c(37): Notify: Next row for parameter 预期值 = 22 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 22.
+Starting iteration 23.
+Notify: Next row for parameter 传入参数 = 23 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '23'.
+Notify: Next row for parameter 预期值 = 23 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '23'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18300000014"
+Action.c(26): t=7946ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18300000014" (RelFrameId=1, Internal ID=23)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:56 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=8013ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18300000014" (RelFrameId=1, Internal ID=23)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18300000014"
+Action.c(37): Notify: Next row for parameter 预期值 = 23 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 23.
+Starting iteration 24.
+Notify: Next row for parameter 传入参数 = 24 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '24'.
+Notify: Next row for parameter 预期值 = 24 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '24'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18400000015"
+Action.c(26): t=8352ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18400000015" (RelFrameId=1, Internal ID=24)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:56 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=8392ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18400000015" (RelFrameId=1, Internal ID=24)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18400000015"
+Action.c(37): Notify: Next row for parameter 预期值 = 24 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 24.
+Starting iteration 25.
+Notify: Next row for parameter 传入参数 = 25 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '25'.
+Notify: Next row for parameter 预期值 = 25 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '25'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18700000016"
+Action.c(26): t=8646ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18700000016" (RelFrameId=1, Internal ID=25)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:57 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=8687ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18700000016" (RelFrameId=1, Internal ID=25)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18700000016"
+Action.c(37): Notify: Next row for parameter 预期值 = 25 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 25.
+Starting iteration 26.
+Notify: Next row for parameter 传入参数 = 26 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '26'.
+Notify: Next row for parameter 预期值 = 26 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '26'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18800000017"
+Action.c(26): t=8951ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18800000017" (RelFrameId=1, Internal ID=26)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:57 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=9000ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=18800000017" (RelFrameId=1, Internal ID=26)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=18800000017"
+Action.c(37): Notify: Next row for parameter 预期值 = 26 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 26.
+Starting iteration 27.
+Notify: Next row for parameter 传入参数 = 27 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '27'.
+Notify: Next row for parameter 预期值 = 27 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '27'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=14700000018"
+Action.c(26): t=9321ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=14700000018" (RelFrameId=1, Internal ID=27)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:57 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=9405ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=14700000018" (RelFrameId=1, Internal ID=27)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=14700000018"
+Action.c(37): Notify: Next row for parameter 预期值 = 27 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 27.
+Starting iteration 28.
+Notify: Next row for parameter 传入参数 = 28 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '28'.
+Notify: Next row for parameter 预期值 = 28 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '28'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=17800000019"
+Action.c(26): t=9712ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=17800000019" (RelFrameId=1, Internal ID=28)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:58 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 43\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=9731ms: 43-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=17800000019" (RelFrameId=1, Internal ID=28)
+Action.c(26):     {"ret":200,"data":{"result":true},"msg":""}
+Action.c(26): Notify: Saving Parameter "code = {"ret":200,"data":{"result":true},"msg":""}".
+Action.c(26): web_url("121.41.24.43") was successful, 43 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=17800000019"
+Action.c(37): Notify: Next row for parameter 预期值 = 28 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":200,"data":{"result":1},"msg":""}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":200,"data":{"result":true},"msg":""}"
+Ending action Action.
+Ending iteration 28.
+Starting iteration 29.
+Notify: Next row for parameter 传入参数 = 29 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '29'.
+Notify: Next row for parameter 预期值 = 29 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '29'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13482030055"
+Action.c(26): t=9982ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13482030055" (RelFrameId=1, Internal ID=29)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:58 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 109\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=10013ms: 109-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=13482030055" (RelFrameId=1, Internal ID=29)
+Action.c(26):     {"ret":302,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(13482
+Action.c(26):     030055)\\u5df2\\u5b58\\u5728"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":302,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(13482030055)\u5df2\u5b58\u5728"}".
+Action.c(26): web_url("121.41.24.43") was successful, 109 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=13482030055"
+Action.c(37): Notify: Next row for parameter 预期值 = 29 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":302,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(13482030055)\u5df2\u5b58\u5728"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":302,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(13482030055)\u5df2\u5b58\u5728"}"
+Ending action Action.
+Ending iteration 29.
+Starting iteration 30.
+Notify: Next row for parameter 传入参数 = 30 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '30'.
+Notify: Next row for parameter 预期值 = 30 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '30'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1343132"
+Action.c(26): t=10351ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1343132" (RelFrameId=1, Internal ID=30)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:58 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 105\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=10412ms: 105-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1343132" (RelFrameId=1, Internal ID=30)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(13431
+Action.c(26):     32)\\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1343132)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 105 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1343132"
+Action.c(37): Notify: Next row for parameter 预期值 = 30 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1343132)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1343132)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 30.
+Starting iteration 31.
+Notify: Next row for parameter 传入参数 = 31 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '31'.
+Notify: Next row for parameter 预期值 = 31 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '31'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1111"
+Action.c(26): t=10733ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1111" (RelFrameId=1, Internal ID=31)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:59 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 102\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=10753ms: 102-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1111" (RelFrameId=1, Internal ID=31)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(1111)
+Action.c(26):     \\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1111)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 102 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1111"
+Action.c(37): Notify: Next row for parameter 预期值 = 31 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1111)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1111)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 31.
+Starting iteration 32.
+Notify: Next row for parameter 传入参数 = 32 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '32'.
+Notify: Next row for parameter 预期值 = 32 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '32'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=abc"
+Action.c(26): t=11026ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=abc" (RelFrameId=1, Internal ID=32)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:59 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 101\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=11047ms: 101-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=abc" (RelFrameId=1, Internal ID=32)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(abc)\\
+Action.c(26):     u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(abc)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 101 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=abc"
+Action.c(37): Notify: Next row for parameter 预期值 = 32 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(abc)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(abc)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 32.
+Starting iteration 33.
+Notify: Next row for parameter 传入参数 = 33 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '33'.
+Notify: Next row for parameter 预期值 = 33 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '33'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile='"
+Action.c(26): t=11307ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile='" (RelFrameId=1, Internal ID=33)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:41:59 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 99\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=11346ms: 99-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile='" (RelFrameId=1, Internal ID=33)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(')\\u
+Action.c(26):     4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(')\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 99 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile='"
+Action.c(37): Notify: Next row for parameter 预期值 = 33 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(')\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(')\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 33.
+Starting iteration 34.
+Notify: Next row for parameter 传入参数 = 34 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '34'.
+Notify: Next row for parameter 预期值 = 34 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '34'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=and1=1"
+Action.c(26): t=11632ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=and1=1" (RelFrameId=1, Internal ID=34)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:00 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 104\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=11687ms: 104-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=and1=1" (RelFrameId=1, Internal ID=34)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(and1=
+Action.c(26):     1)\\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(and1=1)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 104 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=and1=1"
+Action.c(37): Notify: Next row for parameter 预期值 = 34 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(and1=1)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(and1=1)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 34.
+Starting iteration 35.
+Notify: Next row for parameter 传入参数 = 35 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '35'.
+Notify: Next row for parameter 预期值 = 35 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '35'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=jdf"
+Action.c(26): t=11962ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=jdf" (RelFrameId=1, Internal ID=35)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:00 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 101\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=12020ms: 101-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=jdf" (RelFrameId=1, Internal ID=35)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(jdf)\\
+Action.c(26):     u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(jdf)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 101 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=jdf"
+Action.c(37): Notify: Next row for parameter 预期值 = 35 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(jdf)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(jdf)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 35.
+Starting iteration 36.
+Notify: Next row for parameter 传入参数 = 36 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '36'.
+Notify: Next row for parameter 预期值 = 36 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '36'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1234567890"
+Action.c(26): t=12302ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1234567890" (RelFrameId=1, Internal ID=36)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:00 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 108\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=12323ms: 108-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=1234567890" (RelFrameId=1, Internal ID=36)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(12345
+Action.c(26):     67890)\\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1234567890)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 108 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=1234567890"
+Action.c(37): Notify: Next row for parameter 预期值 = 36 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1234567890)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(1234567890)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 36.
+Starting iteration 37.
+Notify: Next row for parameter 传入参数 = 37 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '37'.
+Notify: Next row for parameter 预期值 = 37 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '37'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=dsfsdfsdf"
+Action.c(26): t=12580ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=dsfsdfsdf" (RelFrameId=1, Internal ID=37)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:01 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 107\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=12598ms: 107-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=dsfsdfsdf" (RelFrameId=1, Internal ID=37)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(dsfsd
+Action.c(26):     fsdf)\\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(dsfsdfsdf)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 107 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=dsfsdfsdf"
+Action.c(37): Notify: Next row for parameter 预期值 = 37 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(dsfsdfsdf)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(dsfsdfsdf)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 37.
+Starting iteration 38.
+Notify: Next row for parameter 传入参数 = 38 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '38'.
+Notify: Next row for parameter 预期值 = 38 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '38'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=234234"
+Action.c(26): t=12856ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=234234" (RelFrameId=1, Internal ID=38)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:01 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 104\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=12899ms: 104-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=234234" (RelFrameId=1, Internal ID=38)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7(23423
+Action.c(26):     4)\\u4e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(234234)\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 104 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile=234234"
+Action.c(37): Notify: Next row for parameter 预期值 = 38 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(234234)\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7(234234)\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 38.
+Starting iteration 39.
+Notify: Next row for parameter 传入参数 = 39 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '39'.
+Notify: Next row for parameter 预期值 = 39 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '39'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile="
+Action.c(26): t=13207ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=" (RelFrameId=1, Internal ID=39)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:01 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 98\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=13247ms: 98-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName&mobile=" (RelFrameId=1, Internal ID=39)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7()\\u4
+Action.c(26):     e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 98 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  "&mobile="
+Action.c(37): Notify: Next row for parameter 预期值 = 39 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 39.
+Starting iteration 40.
+Notify: Next row for parameter 传入参数 = 40 [table  = 传入参数].
+Notify: Getting new value for parameter '传入参数': table = '用户名是否合法及唯一.dat' column = '0' row = '40'.
+Notify: Next row for parameter 预期值 = 40 [table  = 预期值].
+Notify: Getting new value for parameter '预期值': table = '用户名是否合法及唯一.dat' column = '1' row = '40'.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(26): Notify: Parameter Substitution: parameter "传入参数" =  ""
+Action.c(26): t=13522ms: 196-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckUserName" (RelFrameId=1, Internal ID=40)
+Action.c(26):     HTTP/1.1 200 OK\r\n
+Action.c(26):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(26):     Date: Wed, 01 Apr 2015 08:42:02 GMT\r\n
+Action.c(26):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(26):     Content-Length: 98\r\n
+Action.c(26):     Connection: keep-alive\r\n
+Action.c(26):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(26):     \r\n
+Action.c(26): t=13566ms: 98-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckUserName" (RelFrameId=1, Internal ID=40)
+Action.c(26):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u624b\\u673a\\u53f7()\\u4
+Action.c(26):     e0d\\u5408\\u6cd5"}
+Action.c(26): Notify: Saving Parameter "code = {"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}".
+Action.c(26): web_url("121.41.24.43") was successful, 98 body bytes, 196 header bytes  	[MsgId: MMSG-26386]
+Action.c(37): Notify: Parameter Substitution: parameter "传入参数" =  ""
+Action.c(37): Notify: Next row for parameter 预期值 = 40 [table  = 预期值].
+Action.c(37): Notify: Parameter Substitution: parameter "预期值" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}"
+Action.c(37): Notify: Parameter Substitution: parameter "code" =  "{"ret":301,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u624b\u673a\u53f7()\u4e0d\u5408\u6cd5"}"
+Ending action Action.
+Ending iteration 40.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 16372), ended OK."

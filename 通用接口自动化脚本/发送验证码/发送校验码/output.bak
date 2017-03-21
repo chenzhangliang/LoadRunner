@@ -1,0 +1,44 @@
+Virtual User Script started at : 2015-03-30 16:37:13
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "C:\Users\Administrator\Desktop\通用接口自动化脚本\发送验证码\发送校验码\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(17): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(29): t=499ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.SendSms&mobile=13482030055&type=3275&sendType=1" (RelFrameId=1, Internal ID=1)
+Action.c(29):     HTTP/1.1 200 OK\r\n
+Action.c(29):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(29):     Date: Mon, 30 Mar 2015 08:37:13 GMT\r\n
+Action.c(29):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(29):     Content-Length: 108\r\n
+Action.c(29):     Connection: keep-alive\r\n
+Action.c(29):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(29):     \r\n
+Action.c(29): t=513ms: 108-byte response body for "http://121.41.24.43/?m=General&service=Account.SendSms&mobile=13482030055&type=3275&sendType=1" (RelFrameId=1, Internal ID=1)
+Action.c(29):     {"ret":302,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u63a5\\u53e3\\u8c03\\u752
+Action.c(29):     8\\u8d85\\u8fc7\\u9891\\u7387"}
+Action.c(29): Notify: Saving Parameter "fhz01 = {"ret":302,"data":[],"msg":"\u975e\u6cd5\u8bf7\u6c42\uff1a\u63a5\u53e3\u8c03\u7528\u8d85\u8fc7\u9891\u7387"}".
+Action.c(29): web_url("121.41.24.43") was successful, 108 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Action.c(40): Notify: Parameter Substitution: parameter "验证码" =  "415502"
+Action.c(40): t=853ms: 197-byte response headers for "http://121.41.24.43/?m=General&service=Account.CheckSms&mobile=13482030055&vericode=415502&type=3275" (RelFrameId=1, Internal ID=2)
+Action.c(40):     HTTP/1.1 200 OK\r\n
+Action.c(40):     Server: Server110 LNAMP/1.6.2\r\n
+Action.c(40):     Date: Mon, 30 Mar 2015 08:37:14 GMT\r\n
+Action.c(40):     Content-Type: text/html;charset=utf-8\r\n
+Action.c(40):     Content-Length: 102\r\n
+Action.c(40):     Connection: keep-alive\r\n
+Action.c(40):     X-Powered-By: PHP/5.5.19\r\n
+Action.c(40):     \r\n
+Action.c(40): t=890ms: 102-byte response body for "http://121.41.24.43/?m=General&service=Account.CheckSms&mobile=13482030055&vericode=415502&type=3275" (RelFrameId=1, Internal ID=2)
+Action.c(40):     {"ret":301,"data":[],"msg":"\\u975e\\u6cd5\\u8bf7\\u6c42\\uff1a\\u9a8c\\u8bc1\\u7801\\u8f9
+Action.c(40):     3\\u5165\\u9519\\u8bef"}
+Action.c(40): web_url("121.41.24.43") was successful, 102 body bytes, 197 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,23 @@
+Registry settings:
+	https://www.huoqiu.cn:80
+		default	8â
+		Active	true
+		UseProxy	true
+		UserPrompt	false
+		SSL_Active	true
+		SSL_AutoSslDetect	false
+		Svr_SSL_Version	23
+		Svr_SSL_Ciphers	23
+		SSL_AutoGenCert	true
+		Svr_SSL_Certificate	D:\001.pem
+		Svr_SSL_Key	D:\001.pem
+		Svr_SSL_Password	D:\001.pem
+		Svr_SSL_Client_WinINet_Cert_Index	0
+		Clnt_SSL_Version	23
+		Clnt_SSL_Ciphers	23
+		Clnt_SSL_Certificate	23
+		Clnt_SSL_Key	23
+		Clnt_SSL_Password	23
+		Forward_Active	false
+		Forward_Port	0
+

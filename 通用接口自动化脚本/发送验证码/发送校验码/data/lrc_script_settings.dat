@@ -1,0 +1,44 @@
+Registry settings:
+	COM Options
+	General Options
+		ThinkTimeThreshold	true
+		ThinkTimeThresholdVal	3
+		GenerateRecordingLog	false
+		RecordPreInvocationMessages	true
+		RecordPostInvocationMessages	true
+		ExplicitVariantDeclaration	true
+		RecoverDeletedActions	false
+		NumberOfLinesPerFile	false
+		NumberOfLinesPerFileVal	60000
+		CloseAUT	false
+		FixedThinkTime	false
+		FixedThinkTimeVal	3
+		TrapLocalServer	true
+		GenLongStrInSeparateFile	true
+		default	100
+		DumpProceeses	true
+		PrintOutParamsValues	false
+		DeclarePrimitivesAsLocals	true
+		ReusePrimitiveVariables	true
+		UseFullTypeNames	false
+	JS Options
+		JSComRecordingSupport	false
+	Protocol Options
+		WS_SOAP
+			Recording
+				WSDL
+					wsi11TestAssertionFileLocation	\common\profiles\SSBP10_BP11_TAD.xml
+					wsiCsExecutable	\cs\bin\analyzer.exe
+					wsiJavaExecutable	\java\bin\analyzer.bat
+					wsiNs	http://www.ws-i.org/testing/2003/03/analyzerConfig/
+					wsiTestAssertionFileLocation	\common\profiles\basicprofiletestassertions.xml
+					wsiXslFileLocation	\common\xsl\report.xsl
+	Script Options
+		CorrelateSmallNumbers	false
+		CorrelateLargeNumbers	false
+		CorrelateStrings	false
+		CorrelateArrays	true
+		CorrelateStructures	true
+		CastArrayReferences	false
+		CastObjectReferences	false
+

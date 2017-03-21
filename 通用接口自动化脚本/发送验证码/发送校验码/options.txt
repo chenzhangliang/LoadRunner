@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\通用接口自动化脚本\发送验证码\发送校验码
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\administrator\desktop\通用接口自动化脚本\发送验证码\发送校验码\\logfile.log
+c:\users\administrator\desktop\通用接口自动化脚本\发送验证码\发送校验码\\combined_发送校验码.c
+c:\users\administrator\desktop\通用接口自动化脚本\发送验证码\发送校验码\\pre_cci.c
