@@ -21,9 +21,9 @@ Action()
           "Snapshot=t2.inf",
           "Mode=HTML",
           ITEMDATA,
-          "Name=customer", "Value=金光集团", ENDITEM,
-          "Name=username", "Value=021-580001", ENDITEM,
-          "Name=userpwd", "Value=JIT9762", ENDITEM,
+          "Name=customer", "Value=金光**", ENDITEM,
+          "Name=username", "Value=021-58****1", ENDITEM,
+          "Name=userpwd", "Value=JIT9**2", ENDITEM,
           LAST);
 
 //      if (lr_eval_string("{WcfResponse}")=="/Module/VisitingData/Data/TaskData.aspx?mid=3f697f86-61c4-4e65-b830-31521451b463") {

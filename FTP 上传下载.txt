@@ -5,7 +5,7 @@ Action()
 //      FTP ftp1 = 0;
 
 //      ftp_logon_ex(&ftp1,"FtpLogon",
-//                          "URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+//                          "URL=ftp://jack.***:****tk****710@192.168.0.30:21",
 //                     LAST);
 //
 //      ftp_get_ex(&ftp1,"Get_Files",
@@ -18,7 +18,7 @@ Action()
 //      ftp_logout_ex(&ftp1);
 //
      ftp_logon_ex(&ftp_session,"ftp_logon",
-                         "URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+                         "URL=ftp://jack.****Idon't****710@192.168.0.30:21",
                     LAST);
 
      ftp_put_ex(&ftp_session, "Ftp_Put",

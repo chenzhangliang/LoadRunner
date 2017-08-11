@@ -69,8 +69,8 @@ Action()
      lr_start_transaction("下载文件");
 
      ftp_logon_ex(&ftp,"FtpLogon",
-                         "URL=ftp://dmstest:dms.test=8021@180.153.154.44:8021", //登录FTP
-                      //"URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+                         "URL=ftp://dmstest:***.test=8021@180.153.154.**:8021", //登录FTP
+                      //"URL=ftp://jack****:Idon't***10@192.168.0.30:21",
                     LAST);
 
      ftp_get_ex(&ftp,"Get_Files",
