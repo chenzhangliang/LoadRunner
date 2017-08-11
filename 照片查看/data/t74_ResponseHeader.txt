@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/plain;charset=utf-8
-Content-Encoding: gzip
-ETag: 1522651417
-Server: Microsoft-IIS/7.0
-X-Powered-By: ASP.NET
-Date: Tue, 09 Jul 2013 09:03:04 GMT
-Content-Length: 698
-

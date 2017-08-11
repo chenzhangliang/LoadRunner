@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Content-Length: 220
-Content-Type: text/xml
-Server: Microsoft-HTTPAPI/2.0
-X-Powered-By: Portable Basemap Server
-Date: Tue, 09 Jul 2013 09:03:04 GMT
-

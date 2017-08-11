@@ -20,8 +20,8 @@ Action()
 	lr_start_transaction("文件上传");
 
      ftp_logon_ex(&ftp_session,"ftp_logon",
-					//"URL=ftp://dmstest:dms.test=8021@180.153.154.44:8021",
-				      "URL=ftp://dmstest:dms.test=8021@112.124.9.72:8021",
+					//"URL=ftp://****:dms.test=8021@180.153.154.44:8021",
+				      "URL=ftp://****:dms.test=8021@112.124.9.72:8021",
 				LAST);
 
      ftp_put_ex(&ftp_session, "Ftp_Put",

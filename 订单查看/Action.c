@@ -4,10 +4,10 @@ Action()
 	lr_think_time(20);
 
 	web_url("export_3", 
-		"URL=http://report.jitmarketing.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?bbox=5638274%2E610527635%2C1343520%2E181070547%2C17584464%2E887161236%2C7800920%2E330602225&f=image&bboxSR=3857&format=png8&imageSR=3857&size=1221%2C660&dpi=96&layers=show%3A1%2C2%2C3&transparent=true", 
+		"URL=http://report.****.cn:8080/arcgis/rest/services/kpi_chinamap/MapServer/export?bbox=5638274%2E610527635%2C1343520%2E181070547%2C17584464%2E887161236%2C7800920%2E330602225&f=image&bboxSR=3857&format=png8&imageSR=3857&size=1221%2C660&dpi=96&layers=show%3A1%2C2%2C3&transparent=true", 
 		"Resource=1", 
 		"RecContentType=image/png", 
-		"Referer=http://map.jitmarketing.cn:8083/map/index.swf", 
+		"Referer=http://map.****.cn:8083/map/index.swf", 
 		"Snapshot=t110.inf", 
 		LAST);
 

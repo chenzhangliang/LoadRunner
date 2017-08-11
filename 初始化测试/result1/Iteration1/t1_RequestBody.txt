@@ -1,2 +1,0 @@
-"{"pRequest":{"UploadFile":"","IsLogin":true,"UserID":"9598","Token":"","LastUpdateTime":"1900-"
-"01-01 00:00:00 000","Version":"1","OperationCode":2,"Platform":"ace","ClientID":"58"}}"

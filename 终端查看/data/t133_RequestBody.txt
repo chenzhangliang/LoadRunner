@@ -1,1 +1,0 @@
-"btncode=search&method=InitGridData&pPageIndex=0&pPageSize=15&pKeyValue=&CorrelationValue="

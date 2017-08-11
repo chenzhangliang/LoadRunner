@@ -73,7 +73,7 @@ Action()
      ftp_logon_ex(&ftp,"FtpLogon",
 					//"URL=ftp://dmstest:dms.test=8021@180.153.154.44:8021",//µÇÂ¼FTP
 				  "URL=ftp://dmstest:dms.test=8021@112.124.9.72:8021",
-				  //"URL=ftp://jack.chen:Idon'tknow710@192.168.0.30:21",
+				  //"URL=ftp://jack.ch******@192.168.0.30:21",
 				LAST);
 
      ftp_get_ex(&ftp,"Get_Files",

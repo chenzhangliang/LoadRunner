@@ -1,3 +1,0 @@
-"page=1&limit=50&ClientStructureID=&ClientPositionID=&VisitingTaskID=d9385bdc-532d-4a94-a398-df"
-"f9b5f7ee4f&VisitingTaskStepID=null&IsInOutPic=&DateFrom=&DateTo=&ObjectName=&POPName=&ClientUs"
-"erName="

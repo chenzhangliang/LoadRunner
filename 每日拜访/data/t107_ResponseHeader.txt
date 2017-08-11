@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: max-age=86400
-Content-Type: image/png
-ETag: -988298626
-Server: Microsoft-IIS/7.0
-X-Powered-By: ASP.NET
-Date: Mon, 08 Jul 2013 10:33:08 GMT
-Content-Length: 18136
-
